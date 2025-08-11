@@ -1,0 +1,13 @@
+name = "Knight Quest"
+author = "robonebi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f0ad4befa9a3cff61b61b878ccc881c7a95d8256ec766df331a8588498902cd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.200"

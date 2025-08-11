@@ -1,0 +1,13 @@
+name = "LambDynamicLights [Unofficial NeoForge]"
+filename = "lambdynamiclights-3.1.4-neo-0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1685ff10d75439cc2cc82a8c7885d05af263f51e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5980174
+project-id = 1130792

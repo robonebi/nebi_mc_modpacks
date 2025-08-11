@@ -1,0 +1,13 @@
+name = "Corpse x Curios API Compat"
+filename = "gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/cn1qZ05f/gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar"
+hash-format = "sha512"
+hash = "66302878dc750968399a6916f324a3677712e5129d1356bee8051a4c2ced92bc01a3a2f3dd01713bc09ac25e0bcf28a2fcf079976e80ba02a1494fa92b50f5a8"
+
+[update]
+[update.modrinth]
+mod-id = "pJGcKPh1"
+version = "cn1qZ05f"

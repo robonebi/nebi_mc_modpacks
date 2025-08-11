@@ -1,0 +1,13 @@
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/9rPpDiqt/EnchantingInfuser-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "c8bf63d596424011ce0fdd6b7892a7bd3202ac9ffe3846cf8d7c971ccb3cf7724712c0a1234578b426d8628e35b73a0cae5dbcadcc95c8a82528508da0bf0af6"
+
+[update]
+[update.modrinth]
+mod-id = "ePv85y52"
+version = "9rPpDiqt"

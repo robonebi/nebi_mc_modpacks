@@ -1,0 +1,13 @@
+name = "Dragon Survival"
+author = "robonebi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8d08ba8af131c5f431f231e7c65c18fa016a8d790c8308adf7fe86d246650ef"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

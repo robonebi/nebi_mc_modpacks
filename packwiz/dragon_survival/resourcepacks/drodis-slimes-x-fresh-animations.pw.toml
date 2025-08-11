@@ -1,0 +1,13 @@
+name = "Drodi's Slimes x Fresh Animations"
+filename = "§4Drodi's Slimes FA [V1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b280889435af62ac61ee420a8afde832055561e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6327939
+project-id = 1224790

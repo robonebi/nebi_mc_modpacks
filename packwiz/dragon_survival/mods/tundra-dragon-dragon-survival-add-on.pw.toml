@@ -1,0 +1,13 @@
+name = "Tundra Dragon (Dragon Survival Add-On)"
+filename = "tundradragon-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77b752cbcd9d3b5f400fecf60305f9555694a004"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6503554
+project-id = 1246424
