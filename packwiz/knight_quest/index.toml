@@ -594,3 +594,21 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
+hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r220435_MC1.21.x.zip"
+hash = "3551b32dc12815bcdf0822dbcc206c2e80d373f0da0b164799fe065bc33d5ac1"
+
+[[files]]
+file = "resourcepacks/redstone-torch-backport.pw.toml"
+hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "9360f16158d014416971036ff6c090f840db44321413012523c938b9756c8d41"
+metafile = true
