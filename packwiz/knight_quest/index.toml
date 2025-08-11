@@ -604,6 +604,11 @@ file = "resourcepacks/VanillaTweaks_r220435_MC1.21.x.zip"
 hash = "3551b32dc12815bcdf0822dbcc206c2e80d373f0da0b164799fe065bc33d5ac1"
 
 [[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-torch-backport.pw.toml"
 hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
 metafile = true
