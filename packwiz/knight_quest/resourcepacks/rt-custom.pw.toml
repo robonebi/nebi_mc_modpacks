@@ -1,0 +1,7 @@
+name = "rt_custom"
+filename = "Redstone Tweaks 2.4.5.zip.rpo"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/resourcepacks/Redstone%20Tweaks%202.4.5.zip.rpo"
+hash-format = "sha256"
+hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"

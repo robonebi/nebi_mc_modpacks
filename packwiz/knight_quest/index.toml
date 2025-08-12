@@ -820,14 +820,6 @@ hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
-hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r220435_MC1.21.x.zip"
-hash = "3551b32dc12815bcdf0822dbcc206c2e80d373f0da0b164799fe065bc33d5ac1"
-
-[[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
@@ -840,4 +832,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "9360f16158d014416971036ff6c090f840db44321413012523c938b9756c8d41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rt-custom.pw.toml"
+hash = "b7222f76c6bad51658f680fb4a6f2dcde4d425b01551f1c515bb7f5d718b41c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-tweaks.pw.toml"
+hash = "6f7d6ae4fe8a178ef0663c6a2d5bd935ec2b47ba65b724914f08e43e57d62e27"
 metafile = true
