@@ -5,6 +5,10 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/alshanex_familiars-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+
+[[files]]
 file = "config/amendments-client.toml"
 hash = "52b3222f2151d984232f40767c7578ae0c13cc3f9d24387a6dfa1cb5c5efc205"
 
