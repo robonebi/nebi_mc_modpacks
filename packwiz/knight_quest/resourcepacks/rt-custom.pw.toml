@@ -1,5 +1,6 @@
 name = "rt_custom"
 filename = "Redstone Tweaks 2.4.5.zip.rpo"
+side = "client"
 
 [download]
 url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/resourcepacks/Redstone%20Tweaks%202.4.5.zip.rpo"

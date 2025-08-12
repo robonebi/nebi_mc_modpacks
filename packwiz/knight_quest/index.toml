@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rt-custom.pw.toml"
-hash = "b7222f76c6bad51658f680fb4a6f2dcde4d425b01551f1c515bb7f5d718b41c3"
+hash = "41a2d293cbc38081882d235bb990906213e416827b5adbcaa9c832a3806f188e"
 metafile = true
 
 [[files]]
