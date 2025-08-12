@@ -1,5 +1,6 @@
 name = "vanilla_tweaks"
 filename = "VanillaTweaks_r220435_MC1.21.x.zip"
+side = "client"
 
 [download]
 url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/resourcepacks/VanillaTweaks_r220435_MC1.21.x.zip"
