@@ -126,7 +126,7 @@ hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
 
 [[files]]
 file = "config/lootr-client.toml"
-hash = "97d9e6f4b3fa443cc4fceb3f6bff16d1ba882e654f7e5a889fa693f4f1770771"
+hash = "bbc1412e1be0ab454f97f3a60eacfb452752f3b356b63b7db596834e7fe26e93"
 
 [[files]]
 file = "config/lootr-common.toml"
