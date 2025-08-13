@@ -241,37 +241,37 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "2805e420671b90cc1566718e8038663c5ad3c9ea03dfbf764fa95fc293520008"
+hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "b14546ba6014454e4b47c8087ecb158aaf65e6c39e444dd3315844c52e0c0e2e"
+hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0681f8805c880694f6cec2647b24a8d6ea486d644a482a98cc98256be3dccb2c"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4c59385c9c65a7a367adeacbabc57fa82f5796f1d987801397eb11e9c5421af7"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "0805e882cedbc7faa0c7bfac88ae8554b3463bc01cd93fbd02784f6f2d4ba1b5"
+hash = "a22428140ae8ade420e9708a85cff2bc1a67d31d085f7521e3b0d440cc6b95a7"
 metafile = true
 
 [[files]]
 file = "mods/ash-api.pw.toml"
-hash = "17c6d4ebdb05d71b1812d9294bdad89ee1d51f96fa3eb6d8ecc1cb0a9231c8e1"
+hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
 metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "c4c3015b680b928fdd3f7ab7237164a69d80dafa8f39045d1f1a7b6ae9abecd5"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
