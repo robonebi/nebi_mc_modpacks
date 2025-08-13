@@ -320,6 +320,11 @@ hash = "cb8a41809bf6773c3259df1cee6041bce1719ca46fa9295d21288887f4ebc781"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "3c9ae1460c1dad8dfac21acb1d0306c74c6af5b41a048fde395f008fbbcbca15"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "5c5cb70cda67323c55eaeec14dd99bd54f74ed85c775e22768ccc2ab82a0a0f6"
 metafile = true
