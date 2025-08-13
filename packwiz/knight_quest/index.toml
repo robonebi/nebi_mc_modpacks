@@ -6,7 +6,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/alshanex_familiars-common.toml"
-hash = "0b8ceb42b1e34687c70a14f74fa557eeb6b5f93c7370c2469dc473336948fba4"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
 file = "config/amendments-client.toml"
