@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "f0a1fc8855491a80b62a9ee9a0291c41d11d5d341307fe58a51293137b6d8e22"
+hash = "6fa2f9e2b6bd37c4db9aa9a4b3c2a0d9ddcbaa5e8ffbf8f8bbf19a0039beaacb"
 metafile = true
 
 [[files]]
