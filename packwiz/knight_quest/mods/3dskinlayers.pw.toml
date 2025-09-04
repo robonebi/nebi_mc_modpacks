@@ -1,13 +1,13 @@
 name = "3D Skin Layers"
-filename = "skinlayers3d-neoforge-1.8.2-mc1.21.jar"
+filename = "skinlayers3d-neoforge-1.9.0-mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/8hVaBkzL/skinlayers3d-neoforge-1.8.2-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/BeFsM0V8/skinlayers3d-neoforge-1.9.0-mc1.21.jar"
 hash-format = "sha512"
-hash = "b93f5fc61cd7d162465483641a58fc77d5615b409f78ff949eeb375795c4e57d7db5af50a89af7ee2e5f885a1c6b5146e003b898d2374e82156a0b3aae737c5c"
+hash = "804e24078fd61220e4dddf5f975f9f47b2b99a7ce1149083f83a045f6c63bb9f88390e57a234f4bb8d3c2b38be141ab1004b17cd9005a39a155522ee0ced4906"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "8hVaBkzL"
+version = "BeFsM0V8"

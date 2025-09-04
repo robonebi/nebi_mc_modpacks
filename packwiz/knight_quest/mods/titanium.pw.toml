@@ -1,13 +1,13 @@
 name = "Titanium"
-filename = "titanium-1.21-4.0.39.jar"
+filename = "titanium-1.21-4.0.40.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/95S4S8ZU/titanium-1.21-4.0.39.jar"
+url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/XweNZVuM/titanium-1.21-4.0.40.jar"
 hash-format = "sha512"
-hash = "dba39d1a12c861bac414a3ba93da734fbb9b33e15dc8e472c91da4a40ff5ded48a132a484b35c2884f1d66926d2c10a73eab22ff8805633d35d668e781405cbf"
+hash = "380bdb3105387441427981cad9c11b8bdd82222282d803bd09e975ecafc376a703da6a41416f2af7cb95be0e2f67f5af2bb517320479506585d7e2bf7852caa7"
 
 [update]
 [update.modrinth]
 mod-id = "1Ro7m06l"
-version = "95S4S8ZU"
+version = "XweNZVuM"

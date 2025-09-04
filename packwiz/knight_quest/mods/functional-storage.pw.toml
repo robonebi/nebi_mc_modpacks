@@ -1,13 +1,13 @@
 name = "Functional Storage"
-filename = "functionalstorage-1.21.1-1.5.2.jar"
+filename = "functionalstorage-1.21.1-1.5.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/6KQg5p62/functionalstorage-1.21.1-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/fKCremFg/functionalstorage-1.21.1-1.5.4.jar"
 hash-format = "sha512"
-hash = "3de63b75459aecf60948d88f86ac44d11ef2e717bd4abfc74bf57c0504666ccf829079a3e715b8dc6ef2d37000989dde2bdb441d2f320bea2475d23a6366d372"
+hash = "9b99cb13133a19f96cb11816670e3136fb3645eecbb119110fadc3a55a03ed77b2dd095235fcc0989ef9c2f942dd5c550a1134306263b57425349a19a422582c"
 
 [update]
 [update.modrinth]
 mod-id = "cO40ZIg3"
-version = "6KQg5p62"
+version = "fKCremFg"
