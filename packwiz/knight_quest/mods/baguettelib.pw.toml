@@ -1,6 +1,6 @@
 name = "BaguetteLib"
 filename = "baguettelib-1.21.1-NeoForge-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OfKzpbRU/versions/u7WCvvxF/baguettelib-1.21.1-NeoForge-1.0.0.jar"
