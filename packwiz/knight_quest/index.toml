@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "25456f440dbfc30eadc971102d998b0a0b755735011877688aaed7d18720187b"
+hash = "d55d186c8a5566df9062bcb375af4f90621c9fbffec0e28ede4366d67ecdfc4c"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "6dc50eebcc3a176d6ca8a9882b3cd7a26bc4b831c0d81f42ac93a72c2cc784e2"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
 
 [[files]]
