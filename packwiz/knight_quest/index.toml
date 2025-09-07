@@ -610,6 +610,11 @@ hash = "cc280e39c2a7b33536d63df838526622e6b5d3710e37d9afcca9464905a6c1ec"
 metafile = true
 
 [[files]]
+file = "mods/larion-worldgen.pw.toml"
+hash = "cfd9584cd85b80ce1bc993112f337200ea603149edb6bb47af5f5c915529adf4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "02e7081f4174098138496b3b57eac789d17132c1976ecd23a3c324740277a9d5"
 metafile = true
@@ -622,11 +627,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "59eb814049a7857187ee15096690e1af44f591d7123b429911c42da14cd664d8"
-metafile = true
-
-[[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "bde618c330853311ab594beeaa5f54e1c1c1f1726f2dd56ecabf3fa6acc598b5"
 metafile = true
 
 [[files]]
