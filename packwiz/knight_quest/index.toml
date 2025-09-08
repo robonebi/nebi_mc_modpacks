@@ -805,6 +805,11 @@ hash = "b5231d16049144f3e8d64c9c1b1fe503c3eac1cb4c1dde56160eb6e4253b892c"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "861c981ef2c60f5688b92d28adbf0ced1d38e1433e2f7511ed4ca7d8c6f62254"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "4b43714366871c3b822e8b708c9887edf0e0bf390d7a1ae3650a6936c2e3746b"
 metafile = true
