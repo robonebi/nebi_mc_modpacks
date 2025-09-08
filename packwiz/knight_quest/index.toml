@@ -480,11 +480,6 @@ hash = "ea72f1530367a4f8c347e197119188d25d876f3fe4ac19c1eb0b4c2ad23ce48c"
 metafile = true
 
 [[files]]
-file = "mods/fetzis-displays.pw.toml"
-hash = "ec14943c6d644f0df9c0dc79c76ec1e9fb669f1fc83f769f2ffdd48ee6e25a87"
-metafile = true
-
-[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "d55d186c8a5566df9062bcb375af4f90621c9fbffec0e28ede4366d67ecdfc4c"
 metafile = true
