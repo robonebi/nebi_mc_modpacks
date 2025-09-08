@@ -480,11 +480,6 @@ hash = "ea72f1530367a4f8c347e197119188d25d876f3fe4ac19c1eb0b4c2ad23ce48c"
 metafile = true
 
 [[files]]
-file = "mods/fetzis-asian-decoration.pw.toml"
-hash = "3e61aadd9a06e3045a6826b0aac35d08884cbf7d7db86b189e8d673f562dd7e3"
-metafile = true
-
-[[files]]
 file = "mods/fetzis-displays.pw.toml"
 hash = "ec14943c6d644f0df9c0dc79c76ec1e9fb669f1fc83f769f2ffdd48ee6e25a87"
 metafile = true
