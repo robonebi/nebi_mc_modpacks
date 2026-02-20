@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "1ff8c2512103d4d23b6537f8b6ff72c5433ad37022ba8f9af14ab903a8c83ad2"
+hash = "f4a9d50719c9c95018140732ed7aae4f071dc3317e5c74d6d7b00d7809cbead9"
 metafile = true
 
 [[files]]
@@ -383,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
+metafile = true
+
+[[files]]
+file = "mods/cobblemore-library.pw.toml"
+hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
 metafile = true
 
 [[files]]
@@ -407,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "2942f9754664e660949ed26d52448d2f7c94c680fed933c1b59fcb3c32d4352b"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
@@ -626,6 +631,11 @@ hash = "11e43d47773d438897c9e445a1231ab2158b99ba24c7e59a6d69e62c1349b4b2"
 metafile = true
 
 [[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
@@ -726,8 +736,18 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "415ae259d7d6c92717710d6f80494d9f3c0884c6a2a35f993ad31e287f64632f"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
@@ -837,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "5b18ccd738f47dff1fe92939e045bb2ea0fe8c2b722e0a013a4880ef88799405"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -857,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f1af6465928843e5a89eb0602457a89e100168053bb507150744ced4953a286e"
+hash = "64ccab25e470f544aa1bb0cb388ac5c66dbaf80c0136141250e2256a860894a6"
 metafile = true
 
 [[files]]
@@ -1277,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "12616d46c01352daa335920d708d85f2f8632a1fe8e102e4b43820b70a806384"
+hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
 metafile = true
 
 [[files]]
