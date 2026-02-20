@@ -1,12 +1,12 @@
 name = "Cobblemon: Ho-Oh's Chosen"
 author = "robonebi"
-version = "1.0.0"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "48c76de0727dd876200079ae94752af2b43be723c04a175f846bc34a8a083b31"
+hash = "2c0566bad69da991cff70d6aff5eac6d1a4ae97ce90178c3002d9d24a9ab6107"
 
 [versions]
 minecraft = "1.21.1"
