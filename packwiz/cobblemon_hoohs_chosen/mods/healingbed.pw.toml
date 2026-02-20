@@ -1,0 +1,13 @@
+name = "HealingBed"
+filename = "healingbed 1.21.1 NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kPukywy/versions/ErJ7Uj00/healingbed%201.21.1%20NeoForge.jar"
+hash-format = "sha512"
+hash = "96d83e8f3099c834875928f2bd6c0671d5866b24533ee11d3628a47e3d8c7ddf5d39c390921640a53809912c49cfd72dba9944ae9a78f1b9d25e715180ea670c"
+
+[update]
+[update.modrinth]
+mod-id = "2kPukywy"
+version = "ErJ7Uj00"

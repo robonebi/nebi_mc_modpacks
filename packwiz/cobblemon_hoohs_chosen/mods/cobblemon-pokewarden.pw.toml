@@ -1,0 +1,13 @@
+name = "Cobblemon PokeWarden"
+filename = "cobblewarden_boss-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0JtL5Nh/versions/Zt2MKZir/cobblewarden_boss-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "9bd8b2e8b482777741c596ed59d8996f2e6e6c12c2406aedd242ed2b11bc25b5ca876057e95ac7890558e1728c2ae165b568371c025a264ee610515ab0f73898"
+
+[update]
+[update.modrinth]
+mod-id = "d0JtL5Nh"
+version = "Zt2MKZir"

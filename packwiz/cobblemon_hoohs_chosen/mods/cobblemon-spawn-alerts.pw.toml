@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Alerts"
+filename = "cobblemon_spawn_alerts-neoforge-1.11.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pb6jwG0t/versions/vbrZ95fh/cobblemon_spawn_alerts-neoforge-1.11.5-beta.jar"
+hash-format = "sha512"
+hash = "bf135f35e2139554b14b5a4f61fb0e908ba3f7e57db177a7c4e55f8225e267cd6e4e5ae5897dbb17f96b2d5718b9ae384af2f6e69870771dc93a44cd5b803013"
+
+[update]
+[update.modrinth]
+mod-id = "pb6jwG0t"
+version = "vbrZ95fh"

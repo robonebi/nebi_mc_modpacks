@@ -1,0 +1,13 @@
+name = "CobbledGacha v.2 [Fabric/NeoForge 1.21.1]"
+filename = "cobbledgacha-neoforge-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c1OpnQs3/versions/aGv5cGRU/cobbledgacha-neoforge-1.21.1-2.1.1.jar"
+hash-format = "sha512"
+hash = "0aa6300ddaf52948db8e12ee9017cd3b0830c0ad2d366352414a986e6011a9d042d233e81d9a40540ae042b11a6723514f2c5efc682bdb011671ffd42cf2d88b"
+
+[update]
+[update.modrinth]
+mod-id = "c1OpnQs3"
+version = "aGv5cGRU"

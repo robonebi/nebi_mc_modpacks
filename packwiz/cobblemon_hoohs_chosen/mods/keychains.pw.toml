@@ -1,0 +1,13 @@
+name = "Keychains: Supplementaries"
+filename = "keymod-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3v79PekV/versions/zpThFqgE/keymod-1.0.jar"
+hash-format = "sha512"
+hash = "05878366116d88011e014e1cab2313a979c8978f1a320878ea49e187c350930b286234875c8df9892650a8362c92e8b28fd217743ee33db2bfbf96605059b27b"
+
+[update]
+[update.modrinth]
+mod-id = "3v79PekV"
+version = "zpThFqgE"

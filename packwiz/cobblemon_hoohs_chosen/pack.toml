@@ -1,0 +1,16 @@
+name = "Cobblemon: Ho-Oh's Chosen"
+author = "robonebi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce544ef2bd6872718c37c58d1e70123af05cdc60ebbf629b2bf2cf8a697417ec"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
+
+[options]
+datapack-folder = "global_packs/required_data"

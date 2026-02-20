@@ -1,0 +1,13 @@
+name = "Crawl on Demand"
+filename = "crawlondemand-1.21-1.21.5-1.2.0+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wcXLQVhg/versions/HNDAAz4p/crawlondemand-1.21-1.21.5-1.2.0%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "d307705d4834d91b6c1fb975574bd30eaee67f71455466bb57ab4c23d2056044634e4f97e5fee1f983a7b1c761eb5a5a64e17669b67f8d497707bb088254859c"
+
+[update]
+[update.modrinth]
+mod-id = "wcXLQVhg"
+version = "HNDAAz4p"

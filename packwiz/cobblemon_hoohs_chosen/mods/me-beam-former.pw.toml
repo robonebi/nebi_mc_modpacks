@@ -1,0 +1,13 @@
+name = "ME-Beam-Former"
+filename = "me_beam_former-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wug9w09r/versions/ChgTrEHp/me_beam_former-1.21.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "1e6bcb007afdd4cbf40d577658cff5426a4caa388d1bcca84e19bb572132d8593361245d5cabf282f87f4070f0ea3268ac20c50ef0b6e548dcdda6561b4d052a"
+
+[update]
+[update.modrinth]
+mod-id = "wug9w09r"
+version = "ChgTrEHp"

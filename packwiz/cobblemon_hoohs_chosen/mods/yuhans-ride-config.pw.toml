@@ -1,0 +1,13 @@
+name = "Yuhan's Ride Config"
+filename = "RideConfig-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrKTsSRn/versions/TYLV7Lqe/RideConfig-1.0.0.jar"
+hash-format = "sha512"
+hash = "8cc2de8a02c2fb00b2ddf7295602ca001baf7e8f48c822b81833b15441e0de651471dd3c62663b90ba7ba442c790d15bf1311a61aa27c8492bc29869a794fc81"
+
+[update]
+[update.modrinth]
+mod-id = "LrKTsSRn"
+version = "TYLV7Lqe"

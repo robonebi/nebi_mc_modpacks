@@ -1,0 +1,13 @@
+name = "Configured"
+filename = "configured-neoforge-1.21.11-2.7.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88df37834d802c8f3e679a28331a8f8a5d7858c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7530375
+project-id = 457570

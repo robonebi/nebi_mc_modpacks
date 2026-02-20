@@ -1,0 +1,13 @@
+name = "Xaero's Minimap Aether Icons"
+filename = "XaerosMinimap Aether Icons 1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04b6ecc055a39c337c5a579d33638afa000ee123"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5304144
+project-id = 979783
