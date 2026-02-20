@@ -1,6 +1,6 @@
 name = "Cobblemon: Cobbled Levels"
 filename = "CobbledLevels-neoforge-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9gwPAAvh/versions/hyESDjrM/CobbledLevels-neoforge-2.0.0.jar"
