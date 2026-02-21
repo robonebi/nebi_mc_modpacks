@@ -706,11 +706,6 @@ hash = "36666fecb7dd9e60c7c968d4be5c64e82319f3e5c71356fbf0976998561e571e"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "3da1b263129f79811a2e675861cf3d13573e4d6bd4fe7f114b1db27bc499503e"
 metafile = true
@@ -1128,11 +1123,6 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "81138340af7e8eb855dbb77ba3ab76e8cfa0cdff747e01dd4f15daed59d7a7bc"
-metafile = true
-
-[[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
 
 [[files]]
