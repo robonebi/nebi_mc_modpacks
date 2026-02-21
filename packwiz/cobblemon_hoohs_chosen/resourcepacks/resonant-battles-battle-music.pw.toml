@@ -1,0 +1,13 @@
+name = "Resonant Battles - Battle Music"
+filename = "Resonant Battles v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrT7BXsi/versions/6qn33JTo/Resonant%20Battles%20v1.1.zip"
+hash-format = "sha512"
+hash = "545f9f687a21a7689393c71e375a135eac30cd99fc13bf57a11f12ecd9871fb670508aa824ea86bb1b4be8ad9df4f686620010c44e0616b791c39ad6faec5334"
+
+[update]
+[update.modrinth]
+mod-id = "jrT7BXsi"
+version = "6qn33JTo"

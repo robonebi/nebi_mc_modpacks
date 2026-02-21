@@ -1,0 +1,13 @@
+name = "Resonant Routes - Music Pack"
+filename = "Resonant Routes Pack 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4gucCQNi/versions/A2MWEbYY/Resonant%20Routes%20Pack%201.1.zip"
+hash-format = "sha512"
+hash = "8676fbc16593b8009c1929559bf30349f7eda059382a85cc9706639463b3fd45f986d33147a3a1395d320ef3e41b834cb9ed7126d10832229b4b2c31f37f2281"
+
+[update]
+[update.modrinth]
+mod-id = "4gucCQNi"
+version = "A2MWEbYY"

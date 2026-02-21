@@ -1,0 +1,13 @@
+name = "Excalibur | Torchmaster"
+filename = "Excalibur_Torchmaster.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kOju4PN3/versions/8JsoIuP7/Excalibur_Torchmaster.zip"
+hash-format = "sha512"
+hash = "a36eeccb5044532405e3370eac65363a568bc84f211fdfc40733cb80bd12d225971f7dd3d4490113b27eb98c70332d234a471123cf6a883e524f6ad53670fce6"
+
+[update]
+[update.modrinth]
+mod-id = "kOju4PN3"
+version = "8JsoIuP7"

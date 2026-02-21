@@ -1431,8 +1431,33 @@ hash = "38e492d0a4b6b4a8363009f63218f7d5fde36d1adb2aa2f7a043938ffc4d8634"
 metafile = true
 
 [[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-torchmaster.pw.toml"
+hash = "c7cadd42e875b485f81560b512098dceee0fbf560e61e6394995892f41fea4a4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/just-expressions.pw.toml"
 hash = "520a3c71b39964051bda71d6d8bcb419114c392786dded9143b29ea9b47dd32f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/resonant-battles-battle-music.pw.toml"
+hash = "2438170371509b6df8df45bcd850861dbdc5d766939ca466ea35b6b61f45698e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/resonant-routes-music-pack.pw.toml"
+hash = "91fc771904b269e623d7792e771199ff84d3b7df51a1085e382e681b8db0168a"
 metafile = true
 
 [[files]]
