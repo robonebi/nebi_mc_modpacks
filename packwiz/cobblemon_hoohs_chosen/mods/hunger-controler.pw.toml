@@ -1,0 +1,13 @@
+name = "Hunger Controler"
+filename = "hungertweaker-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd2ac202851298c4d0c86bbe18cec24c44f15315"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7288700
+project-id = 1397011
