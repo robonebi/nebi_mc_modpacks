@@ -101,11 +101,6 @@ hash = "57055c2f8da63471ee707aa5f5beeb918d204bab137d0d06a9fdbf1b0c215886"
 metafile = true
 
 [[files]]
-file = "mods/ars-elixirum.pw.toml"
-hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
-metafile = true
-
-[[files]]
 file = "mods/ars-energistique.pw.toml"
 hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
