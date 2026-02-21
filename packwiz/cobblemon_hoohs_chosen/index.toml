@@ -556,11 +556,6 @@ hash = "ec42dcd012c740dbe0c8cc7758aeffd7be9610fcdecab9339fec01020f8fd174"
 metafile = true
 
 [[files]]
-file = "mods/deep-aether.pw.toml"
-hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
-metafile = true
-
-[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
 metafile = true
