@@ -38,13 +38,17 @@
 	"ShootingStarWorlds": [
 		"minecraft:overworld",
 		"starry_skies:overworld",
-		"paradise_lost:paradise_lost"
+		"paradise_lost:paradise_lost",
+		"aether:the_aether",
+		"twilightforest:twilight_forest"
 	],
 	// Worlds where lightning strikes can spawn Storm Stones
 	"StormStonesWorlds": [
 		"minecraft:overworld",
 		"starry_skies:overworld",
-		"paradise_lost:paradise_lost"
+		"paradise_lost:paradise_lost",
+		"aether:the_aether",
+		"twilightforest:twilight_forest"
 	],
 	// Chance for a lightning strike to spawn a Storm Stone
 	"StormStonesChance": 0.4000000059604645,

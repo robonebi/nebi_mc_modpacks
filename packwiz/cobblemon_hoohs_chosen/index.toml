@@ -1837,18 +1837,6 @@ file = "config/lambdynlights.toml"
 hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 
 [[files]]
-file = "config/libjf_config_core_v2.json5"
-hash = "fd865b43fb98266a3e8cb90ed6cdf2c18ed5f488e17f6844c051802cdc719e6c"
-
-[[files]]
-file = "config/libjf_translate_v1.json5"
-hash = "ee06e87a5b40f4449f452c73c1cbe005101bd8361ef78dd0469371e7e168217f"
-
-[[files]]
-file = "config/libjf_web_v1.json5"
-hash = "a3570ac89dcdefb90e242ba728e71a90e43fa0201b1de3b81f02619ebf27eda0"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -1978,7 +1966,7 @@ hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
 
 [[files]]
 file = "config/pastel.json5"
-hash = "51bac1b98c72cc4a5d0f675216a69f2255edb7f913109f275917b52e2bef2686"
+hash = "9aa3fe32ec8010614b36260c27707e0169564850cf0d1f7cda8d2c0ef0ec775f"
 
 [[files]]
 file = "config/patchouli-client.toml"
