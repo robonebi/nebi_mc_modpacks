@@ -1530,7 +1530,7 @@ hash = "ec63bc8b7d63e38d54c390cdd6b389b1772c48bd780e893892c0edd73ef5dec3"
 
 [[files]]
 file = "config/createadditionallogistics-server.toml"
-hash = "b273c8839718c4a3e6b7d398f2d1aceb25e7e4998c68c7d1dd12ee71f4590484"
+hash = "2583766cc68b25a5b16fd113bb5c95e6079b189d04c3bda717f81757020bed1c"
 
 [[files]]
 file = "config/cubes_without_borders.json"
@@ -2122,7 +2122,7 @@ hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
-hash = "a9841d01fcb1466d40c49b9e257f14a4738b04c7f158d1de848e3d75447ff03e"
+hash = "6ae63a470c4fa9577fb06b59464756c410e2d67a8f7c0aac03f8dae24c4678fe"
 
 [[files]]
 file = "config/structurize-client.toml"

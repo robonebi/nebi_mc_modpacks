@@ -3,7 +3,7 @@
 	#When enabled, items that are freely converted to and from other items (for example, 9 Diamonds equal 1 Diamond Block) will be converted automatically to make shopping easier. Otherwise, only specifically defined currencies will work.
 	compression = true
 	#Allow Stock Tickers to perform Currency Conversion as well.
-	allowStockTickers = false
+	allowStockTickers = true
 
 #Train Network Monitor
 [trainNetworkMonitor]
