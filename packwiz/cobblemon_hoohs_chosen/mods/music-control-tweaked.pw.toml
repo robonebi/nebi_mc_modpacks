@@ -1,0 +1,8 @@
+name = "music_control_tweaked"
+filename = "music_control_tweaked.zip"
+side = "both"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/resourcepacks/music_control_tweaked.zip"
+hash-format = "sha256"
+hash = "4e7bbb7c99498f6b602312e4cc0e9324f82e73e8f3688dca17ba515ece04b80e"

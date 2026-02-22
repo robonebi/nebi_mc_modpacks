@@ -1016,6 +1016,11 @@ hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
+file = "mods/music-control-tweaked.pw.toml"
+hash = "44cf4c0ff4bf61a0c281dd4dc05363d7a27d9a7d871e36d51cd2ab3e79b135f4"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
@@ -1298,6 +1303,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/vanillatweaks.pw.toml"
+hash = "963e264b0666031974abc6ed061d73a1c362d8d5a3829a261025d7069a96b33e"
 metafile = true
 
 [[files]]
