@@ -1757,6 +1757,10 @@ file = "configs/guideme.toml"
 hash = "e4f58ced20ccf200592141f4afcad54a0d33faa6b672a90e58781c1a8183a036"
 
 [[files]]
+file = "configs/hungertweaker-common.toml"
+hash = "ffc8e05d7e6d77544a547b7cdbc40436a7c9568ea4322c1025c9e627b92bd05c"
+
+[[files]]
 file = "configs/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
