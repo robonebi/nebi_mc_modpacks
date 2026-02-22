@@ -2306,6 +2306,16 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/fd-cobblemon.pw.toml"
+hash = "4b4087a07d899cce07727d2aaabbea93f8eab74b5e5f345eb01a95c538f686ee"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/relic-coin-reducer.pw.toml"
+hash = "c249c4eb23672db180ab09aef79fe504b7b4b39e04ab3a1d8148fe0cda8a4b5d"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
@@ -2791,11 +2801,6 @@ hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
 metafile = true
 
 [[files]]
-file = "mods/create-froakie-frogport.pw.toml"
-hash = "0c74766c30af2d2cb1f807cb9823d2c3e7862ff00cf00adc4fc3264e2dbebd3a"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
@@ -2983,11 +2988,6 @@ metafile = true
 [[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
-metafile = true
-
-[[files]]
-file = "mods/fd-cobblemon.pw.toml"
-hash = "4b4087a07d899cce07727d2aaabbea93f8eab74b5e5f345eb01a95c538f686ee"
 metafile = true
 
 [[files]]
@@ -3451,11 +3451,6 @@ hash = "81138340af7e8eb855dbb77ba3ab76e8cfa0cdff747e01dd4f15daed59d7a7bc"
 metafile = true
 
 [[files]]
-file = "mods/relic-coin-reducer.pw.toml"
-hash = "c249c4eb23672db180ab09aef79fe504b7b4b39e04ab3a1d8148fe0cda8a4b5d"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -3730,10 +3725,6 @@ file = "options.txt"
 hash = "62ad1981f5361bf0c8b43db27dd0cec71821649a2db7f1ada955c7012e036c3f"
 
 [[files]]
-file = "resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
-hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
-
-[[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
@@ -3751,6 +3742,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-text-fix.pw.toml"
 hash = "5a83f672456c5341dbfa49f1ad6c784e283e5510f706c187e392d37a191a3550"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-froakie-frogport.pw.toml"
+hash = "0c74766c30af2d2cb1f807cb9823d2c3e7862ff00cf00adc4fc3264e2dbebd3a"
 metafile = true
 
 [[files]]
