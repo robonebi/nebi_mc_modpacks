@@ -3745,11 +3745,6 @@ hash = "5a83f672456c5341dbfa49f1ad6c784e283e5510f706c187e392d37a191a3550"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-froakie-frogport.pw.toml"
-hash = "0c74766c30af2d2cb1f807cb9823d2c3e7862ff00cf00adc4fc3264e2dbebd3a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/create-waxed-outlines.pw.toml"
 hash = "38e492d0a4b6b4a8363009f63218f7d5fde36d1adb2aa2f7a043938ffc4d8634"
 metafile = true
