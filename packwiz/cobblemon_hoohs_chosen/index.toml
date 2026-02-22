@@ -1994,7 +1994,7 @@ hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "596958ba853635081273de94b9d1706edeb403c954cc2232b129c7ca20e73bb7"
+hash = "fec52420c98600df19e9ee68c1e00c7a3f03182d1d04d7f90ddbe7e6f1e3a4c8"
 
 [[files]]
 file = "config/rctmod-client.toml"
