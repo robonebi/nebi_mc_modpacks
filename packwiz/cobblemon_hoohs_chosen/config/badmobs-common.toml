@@ -15,46 +15,46 @@
 	#Spawning options for minecraft:armadillo
 	[minecraft.armadillo]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:axolotl
 	[minecraft.axolotl]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:bat
 	[minecraft.bat]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:bee
 	[minecraft.bee]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:blaze
 	[minecraft.blaze]
@@ -81,112 +81,112 @@
 	#Spawning options for minecraft:breeze
 	[minecraft.breeze]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:camel
 	[minecraft.camel]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:cat
 	[minecraft.cat]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:cave_spider
 	[minecraft.cave_spider]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:chicken
 	[minecraft.chicken]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:cod
 	[minecraft.cod]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:cow
 	[minecraft.cow]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:creeper
 	[minecraft.creeper]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:dolphin
 	[minecraft.dolphin]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:donkey
 	[minecraft.donkey]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:drowned
 	[minecraft.drowned]
@@ -224,24 +224,24 @@
 	#Spawning options for minecraft:enderman
 	[minecraft.enderman]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:endermite
 	[minecraft.endermite]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:evoker
 	[minecraft.evoker]
@@ -257,24 +257,24 @@
 	#Spawning options for minecraft:fox
 	[minecraft.fox]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:frog
 	[minecraft.frog]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:ghast
 	[minecraft.ghast]
@@ -301,24 +301,24 @@
 	#Spawning options for minecraft:glow_squid
 	[minecraft.glow_squid]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:goat
 	[minecraft.goat]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:guardian
 	[minecraft.guardian]
@@ -334,24 +334,24 @@
 	#Spawning options for minecraft:hoglin
 	[minecraft.hoglin]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:horse
 	[minecraft.horse]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:husk
 	[minecraft.husk]
@@ -389,101 +389,101 @@
 	#Spawning options for minecraft:llama
 	[minecraft.llama]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:magma_cube
 	[minecraft.magma_cube]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:mooshroom
 	[minecraft.mooshroom]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:mule
 	[minecraft.mule]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:ocelot
 	[minecraft.ocelot]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:panda
 	[minecraft.panda]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:parrot
 	[minecraft.parrot]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:phantom
 	[minecraft.phantom]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:pig
 	[minecraft.pig]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:piglin
 	[minecraft.piglin]
@@ -521,35 +521,35 @@
 	#Spawning options for minecraft:polar_bear
 	[minecraft.polar_bear]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:pufferfish
 	[minecraft.pufferfish]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:rabbit
 	[minecraft.rabbit]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:ravager
 	[minecraft.ravager]
@@ -565,24 +565,24 @@
 	#Spawning options for minecraft:salmon
 	[minecraft.salmon]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:sheep
 	[minecraft.sheep]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:shulker
 	[minecraft.shulker]
@@ -598,13 +598,13 @@
 	#Spawning options for minecraft:silverfish
 	[minecraft.silverfish]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:skeleton
 	[minecraft.skeleton]
@@ -631,24 +631,24 @@
 	#Spawning options for minecraft:slime
 	[minecraft.slime]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:sniffer
 	[minecraft.sniffer]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:snow_golem
 	[minecraft.snow_golem]
@@ -664,24 +664,24 @@
 	#Spawning options for minecraft:spider
 	[minecraft.spider]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:squid
 	[minecraft.squid]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:stray
 	[minecraft.stray]
@@ -697,57 +697,57 @@
 	#Spawning options for minecraft:strider
 	[minecraft.strider]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:tadpole
 	[minecraft.tadpole]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:trader_llama
 	[minecraft.trader_llama]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:tropical_fish
 	[minecraft.tropical_fish]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:turtle
 	[minecraft.turtle]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:vex
 	[minecraft.vex]
@@ -840,24 +840,24 @@
 	#Spawning options for minecraft:wolf
 	[minecraft.wolf]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:zoglin
 	[minecraft.zoglin]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for minecraft:zombie
 	[minecraft.zombie]
@@ -917,13 +917,13 @@
 	#Spawning options for minecraft:happy_ghast
 	[minecraft.happy_ghast]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 #Options for the guardvillagers mod.
 [guardvillagers]
@@ -2125,174 +2125,6 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 
-#Options for the deep_aether mod.
-[deep_aether]
-
-	#Spawning options for deep_aether:boat
-	[deep_aether.boat]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:chest_boat
-	[deep_aether.chest_boat]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:quail_egg
-	[deep_aether.quail_egg]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:aerglow_fish
-	[deep_aether.aerglow_fish]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:quail
-	[deep_aether.quail]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:venomite
-	[deep_aether.venomite]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:windfly
-	[deep_aether.windfly]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:eots_controller
-	[deep_aether.eots_controller]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:eots_segment
-	[deep_aether.eots_segment]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:wind_crystal
-	[deep_aether.wind_crystal]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:fire_projectile
-	[deep_aether.fire_projectile]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:storm_arrow
-	[deep_aether.storm_arrow]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:venomite_bubble
-	[deep_aether.venomite_bubble]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:baby_zephyr
-	[deep_aether.baby_zephyr]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for deep_aether:gentle_wind
-	[deep_aether.gentle_wind]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
 #Options for the sophisticatedbackpacks mod.
 [sophisticatedbackpacks]
 
@@ -3246,13 +3078,13 @@
 	#Spawning options for fetzisasiandeco:koi
 	[fetzisasiandeco.koi]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = true
+		allowSpawners = false
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 #Options for the yo_hooks mod.
 [yo_hooks]
@@ -3361,20 +3193,6 @@
 
 	#Spawning options for fightorflight:magic_effect
 	[fightorflight.magic_effect]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-#Options for the refurbished_furniture mod.
-[refurbished_furniture]
-
-	#Spawning options for refurbished_furniture:seat
-	[refurbished_furniture.seat]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
@@ -3752,13 +3570,13 @@
 	#Spawning options for rottencreatures:scarab
 	[rottencreatures.scarab]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = true
+		allowSpawners = false
 		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
+		allowSpawnEggs = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
+		allowConversions = false
 
 	#Spawning options for rottencreatures:dead_beard
 	[rottencreatures.dead_beard]
@@ -4646,6 +4464,1250 @@
 
 	#Spawning options for sophisticatedstorageinmotion:storage_boat
 	[sophisticatedstorageinmotion.storage_boat]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the ars_nouveau mod.
+[ars_nouveau]
+
+	#Spawning options for ars_nouveau:spell_proj
+	[ars_nouveau.spell_proj]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:arcing_spell_proj
+	[ars_nouveau.arcing_spell_proj]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:homing_spell_proj
+	[ars_nouveau.homing_spell_proj]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:ally_vex
+	[ars_nouveau.ally_vex]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:fangs
+	[ars_nouveau.fangs]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:bookwyrm
+	[ars_nouveau.bookwyrm]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:starbuncle
+	[ars_nouveau.starbuncle]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:alakarkinos
+	[ars_nouveau.alakarkinos]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:follow_proj
+	[ars_nouveau.follow_proj]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:whirlisprig
+	[ars_nouveau.whirlisprig]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:wixie
+	[ars_nouveau.wixie]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:flying_item
+	[ars_nouveau.flying_item]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:ritual
+	[ars_nouveau.ritual]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:wilden_hunter
+	[ars_nouveau.wilden_hunter]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:spell_arrow
+	[ars_nouveau.spell_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:cinder
+	[ars_nouveau.cinder]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:summon_wolf
+	[ars_nouveau.summon_wolf]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:wilden_stalker
+	[ars_nouveau.wilden_stalker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:summon_horse
+	[ars_nouveau.summon_horse]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:summon_skeleton
+	[ars_nouveau.summon_skeleton]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:wilden_guardian
+	[ars_nouveau.wilden_guardian]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:wilden_boss
+	[ars_nouveau.wilden_boss]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:an_lightning
+	[ars_nouveau.an_lightning]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:dummy
+	[ars_nouveau.dummy]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:drygmy
+	[ars_nouveau.drygmy]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:orbit
+	[ars_nouveau.orbit]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:spike
+	[ars_nouveau.spike]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:familiar_starbuncle
+	[ars_nouveau.familiar_starbuncle]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:familiar_wixie
+	[ars_nouveau.familiar_wixie]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:familiar_bookwyrm
+	[ars_nouveau.familiar_bookwyrm]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:familiar_drygmy
+	[ars_nouveau.familiar_drygmy]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:familiar_whirlisprig
+	[ars_nouveau.familiar_whirlisprig]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:familiar_amethyst_golem
+	[ars_nouveau.familiar_amethyst_golem]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:linger
+	[ars_nouveau.linger]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:wall
+	[ars_nouveau.wall]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:cascading_weald_walker
+	[ars_nouveau.cascading_weald_walker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:flourishing_weald_walker
+	[ars_nouveau.flourishing_weald_walker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:blazing_weald_walker
+	[ars_nouveau.blazing_weald_walker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:vexing_weald_walker
+	[ars_nouveau.vexing_weald_walker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:amethyst_golem
+	[ars_nouveau.amethyst_golem]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:scryer_camera
+	[ars_nouveau.scryer_camera]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:enchanted_falling_block
+	[ars_nouveau.enchanted_falling_block]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:ice_shard
+	[ars_nouveau.ice_shard]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:enchanted_mage_block
+	[ars_nouveau.enchanted_mage_block]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:enchanted_head_block
+	[ars_nouveau.enchanted_head_block]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:gift_starby
+	[ars_nouveau.gift_starby]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_nouveau:animated_block
+	[ars_nouveau.animated_block]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:animated_head
+	[ars_nouveau.animated_head]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:lily
+	[ars_nouveau.lily]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:nook
+	[ars_nouveau.nook]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:bubble
+	[ars_nouveau.bubble]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:enchanters_hook
+	[ars_nouveau.enchanters_hook]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_nouveau:archwood_boat
+	[ars_nouveau.archwood_boat]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the ars_technica mod.
+[ars_technica]
+
+	#Spawning options for ars_technica:arcane_polish_entity
+	[ars_technica.arcane_polish_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_hammer_entity
+	[ars_technica.arcane_hammer_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_press_entity
+	[ars_technica.arcane_press_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_compact_entity
+	[ars_technica.arcane_compact_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_pack_entity
+	[ars_technica.arcane_pack_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_fusion_entity
+	[ars_technica.arcane_fusion_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:arcane_whirl_entity
+	[ars_technica.arcane_whirl_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_technica:item_projectile_entity
+	[ars_technica.item_projectile_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the ars_zero mod.
+[ars_zero]
+
+	#Spawning options for ars_zero:arcane_voxel_entity
+	[ars_zero.arcane_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:water_voxel_entity
+	[ars_zero.water_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:fire_voxel_entity
+	[ars_zero.fire_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:stone_voxel_entity
+	[ars_zero.stone_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:wind_voxel_entity
+	[ars_zero.wind_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:ice_voxel_entity
+	[ars_zero.ice_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:lightning_voxel_entity
+	[ars_zero.lightning_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:blight_voxel_entity
+	[ars_zero.blight_voxel_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:block_group
+	[ars_zero.block_group]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:explosion_controller
+	[ars_zero.explosion_controller]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:water_convergence_controller
+	[ars_zero.water_convergence_controller]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:geometry_terrain_controller
+	[ars_zero.geometry_terrain_controller]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:geometry_break_controller
+	[ars_zero.geometry_break_controller]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:geometry_controller
+	[ars_zero.geometry_controller]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:source_jar_charger
+	[ars_zero.source_jar_charger]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:player_charger
+	[ars_zero.player_charger]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:explosion_burst_projectile
+	[ars_zero.explosion_burst_projectile]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:arcane_circle
+	[ars_zero.arcane_circle]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_zero:effect_beam
+	[ars_zero.effect_beam]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the ars_elemental mod.
+[ars_elemental]
+
+	#Spawning options for ars_elemental:siren_entity
+	[ars_elemental.siren_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:siren_familiar
+	[ars_elemental.siren_familiar]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:firenando_entity
+	[ars_elemental.firenando_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:firenando_familiar
+	[ars_elemental.firenando_familiar]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:flashjack_entity
+	[ars_elemental.flashjack_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:flashjack_familiar
+	[ars_elemental.flashjack_familiar]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:fire_mage
+	[ars_elemental.fire_mage]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:water_mage
+	[ars_elemental.water_mage]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:air_mage
+	[ars_elemental.air_mage]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:earth_mage
+	[ars_elemental.earth_mage]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:flashing_weald_walker
+	[ars_elemental.flashing_weald_walker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_skelehorse
+	[ars_elemental.summon_skelehorse]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:summon_camel
+	[ars_elemental.summon_camel]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_dolphin
+	[ars_elemental.summon_dolphin]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_strider
+	[ars_elemental.summon_strider]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_direwolf
+	[ars_elemental.summon_direwolf]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_wskeleton
+	[ars_elemental.summon_wskeleton]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:summon_slime
+	[ars_elemental.summon_slime]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_bee
+	[ars_elemental.summon_bee]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = false
+		#Should spawners be able to spawn the entity?
+		allowSpawners = false
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = false
+
+	#Spawning options for ars_elemental:summon_vhex
+	[ars_elemental.summon_vhex]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:linger_magnet
+	[ars_elemental.linger_magnet]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:lerp
+	[ars_elemental.lerp]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:phalanx_projectile
+	[ars_elemental.phalanx_projectile]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:water_jet
+	[ars_elemental.water_jet]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:flash_lightning
+	[ars_elemental.flash_lightning]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:geyser
+	[ars_elemental.geyser]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:lava_geyser
+	[ars_elemental.lava_geyser]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:mist_cloud
+	[ars_elemental.mist_cloud]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:dripstone_spike
+	[ars_elemental.dripstone_spike]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:ice_spike
+	[ars_elemental.ice_spike]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:conjured_dripstone
+	[ars_elemental.conjured_dripstone]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for ars_elemental:conjured_ice_spike
+	[ars_elemental.conjured_ice_spike]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
