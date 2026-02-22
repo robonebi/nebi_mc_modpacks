@@ -1,0 +1,8 @@
+name = "fd-pastel"
+filename = "FarmersCuttingPastel.zip"
+side = "both"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/datapacks/FarmersCuttingPastel.zip"
+hash-format = "sha256"
+hash = "51f457e46f69f0bb52b6bb6a2b0822c903229fbf188f61477a1f6177369d0b92"

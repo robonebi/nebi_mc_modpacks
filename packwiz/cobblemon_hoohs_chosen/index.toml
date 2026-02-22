@@ -2306,6 +2306,16 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/fd-cobblemon.pw.toml"
+hash = "5d1e22fd76553abe1b148cf89ebcae4438bf7824145354ab12328912709124c2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/fd-pastel.pw.toml"
+hash = "0c2c3a48eec5a08a339bd944a7e424329342d3ae411704b78d36b0dc05e4ab0f"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/relic-coin-reducer.pw.toml"
 hash = "56f312ac521fb5edfb39900ab7453517e4dc38fcee6ab14af564fb86810676db"
 metafile = true
