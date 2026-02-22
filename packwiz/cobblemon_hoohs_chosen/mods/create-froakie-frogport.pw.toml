@@ -1,0 +1,8 @@
+name = "create_froakie_frogport"
+filename = "Create_Froakie_Frogport.zip"
+side = "both"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/resourcepacks/Create_Froakie_Frogport.zip"
+hash-format = "sha256"
+hash = "6ac0a3c1bcf897b87808cb54ad18b15877e1a36529f78b4cd89d8cee5e9852c1"

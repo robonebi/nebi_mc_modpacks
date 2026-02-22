@@ -2791,6 +2791,11 @@ hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
 metafile = true
 
 [[files]]
+file = "mods/create-froakie-frogport.pw.toml"
+hash = "0c74766c30af2d2cb1f807cb9823d2c3e7862ff00cf00adc4fc3264e2dbebd3a"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
