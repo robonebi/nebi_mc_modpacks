@@ -2981,6 +2981,11 @@ hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
 metafile = true
 
 [[files]]
+file = "mods/fd-cobblemon.pw.toml"
+hash = "4b4087a07d899cce07727d2aaabbea93f8eab74b5e5f345eb01a95c538f686ee"
+metafile = true
+
+[[files]]
 file = "mods/feature-recycler.pw.toml"
 hash = "dfea23fdac9822913ae8f1c8751e9f0978ad4398ed8f9e45ca1a69c71025e979"
 metafile = true
@@ -3438,6 +3443,11 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "81138340af7e8eb855dbb77ba3ab76e8cfa0cdff747e01dd4f15daed59d7a7bc"
+metafile = true
+
+[[files]]
+file = "mods/relic-coin-reducer.pw.toml"
+hash = "c249c4eb23672db180ab09aef79fe504b7b4b39e04ab3a1d8148fe0cda8a4b5d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "fd_cobblemon"
+filename = "FarmersDelightCuttingCobblemon.zip"
+side = "both"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/datapacks/FarmersDelightCuttingCobblemon.zip"
+hash-format = "sha256"
+hash = "d6d523c74db6251ef3fab8ce4bc0cc9c9e16aed4252627de47edb21432cc3a75"

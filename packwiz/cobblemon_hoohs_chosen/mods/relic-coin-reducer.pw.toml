@@ -1,0 +1,8 @@
+name = "relic_coin_reducer"
+filename = "RelicCoinReducer.zip"
+side = "both"
+
+[download]
+url = "https://github.com/robonebi/nebi_mc_modpacks/raw/refs/heads/main/datapacks/RelicCoinReducer.zip"
+hash-format = "sha256"
+hash = "aaa787bb8aa2901f77accaf5e798e5318cf220db2ee158485423814a58ea15e1"
