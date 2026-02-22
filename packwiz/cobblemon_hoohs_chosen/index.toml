@@ -2306,11 +2306,6 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/fd-cobblemon.pw.toml"
-hash = "50eb0022a24c06d35fb85e273bb5e62899928c12d4fd7b4518bfe8b90f49e784"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/relic-coin-reducer.pw.toml"
 hash = "56f312ac521fb5edfb39900ab7453517e4dc38fcee6ab14af564fb86810676db"
 metafile = true
