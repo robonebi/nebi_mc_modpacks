@@ -2956,6 +2956,21 @@ hash = "2d7e927b0efdc5e79a50505151975605b355d14d7da2a475aa8a767697911651"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "f725640348e9ae5af4edd59d1498fc7c08e58dddc29e1dd41056432a93d2737e"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-the-aether.pw.toml"
+hash = "42e27827ae1d5ffb06e1cdb3043e5100fe5898af535753cebbf7be9294a8308d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-twilight-forest.pw.toml"
+hash = "9f042434fe2b7fb10addc596849c71f05307d173a1937b3886519095b10bf354"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
 metafile = true
@@ -3746,6 +3761,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/music-control-tweaked.pw.toml"
 hash = "44cf4c0ff4bf61a0c281dd4dc05363d7a27d9a7d871e36d51cd2ab3e79b135f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
 
 [[files]]
