@@ -1,0 +1,16 @@
+{
+  "globalLandSpeedModifier": 1.0,
+  "globalWaterSpeedModifier": 1.0,
+  "globalAirSpeedModifier": 1.5,
+  "globalLandStaminaMultiplier": 2.0,
+  "globalWaterStaminaMultiplier": 2.0,
+  "globalAirStaminaMultiplier": 2.0,
+  "globalStaminaMultiplier": 2.0,
+  "infiniteLandStamina": false,
+  "infiniteWaterStamina": false,
+  "infiniteAirStamina": false,
+  "infiniteStamina": false,
+  "guiFineStepSpeed": 0.05,
+  "guiFineStepStamina": 0.05,
+  "guiShiftMultiplier": 10.0
+}
