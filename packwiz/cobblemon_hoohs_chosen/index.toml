@@ -1337,6 +1337,10 @@ file = "config/bettercombat/weapon_trails.json"
 hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "2acedbf5a321663e3fa2a99185c4cb7b3298e52426bb7ae96afe14c40743934b"
+
+[[files]]
 file = "config/betterpingdisplay-client.toml"
 hash = "c1b241a63e61b7641731d18155e4c32690514f5a628b892cc6f025589a898adf"
 
