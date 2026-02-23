@@ -1,0 +1,8 @@
+name = "minecolonies_pokemon_compat"
+filename = "InteractWithPokemon.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/InteractWithPokemon.zip"
+hash-format = "sha256"
+hash = "e831589cb1e84220cedb9361f2f6b1fa6013cae83e8ef3a70cad8d6290cb9d74"

@@ -2295,17 +2295,17 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/fd-cobblemon.pw.toml"
-hash = "5d1e22fd76553abe1b148cf89ebcae4438bf7824145354ab12328912709124c2"
+hash = "791af840ab8742797d55dc8835ba7b6863e421a8bab44c42db394492132ac2f2"
 metafile = true
 
 [[files]]
 file = "global_packs/required_data/fd-pastel.pw.toml"
-hash = "0c2c3a48eec5a08a339bd944a7e424329342d3ae411704b78d36b0dc05e4ab0f"
+hash = "04da6f5882bbed304f089aa8e53773edf04fd9b26e2f1d6eadb5821a8e38b1c5"
 metafile = true
 
 [[files]]
 file = "global_packs/required_data/relic-coin-reducer.pw.toml"
-hash = "56f312ac521fb5edfb39900ab7453517e4dc38fcee6ab14af564fb86810676db"
+hash = "2e24f982607f5435d52a2b7b6ed7ea81e380c52d9799acc1469a23febddef488"
 metafile = true
 
 [[files]]
@@ -2834,6 +2834,11 @@ hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
 metafile = true
 
 [[files]]
+file = "mods/cte-tweaked.pw.toml"
+hash = "d0ed4cedf5c0bf5086d0ad067753fc080808bc24508c71cefb7781247d7cf812"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -3286,6 +3291,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "07bc775ce20594b6eb8dbaeac825689608f5d8a28a1b37a88995c4a22dc88a48"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-pokemon-compat.pw.toml"
+hash = "db46a2ef2cfdbbb5800a647a2d19ce2d49675ff3a390c6414719828306158b25"
 metafile = true
 
 [[files]]
