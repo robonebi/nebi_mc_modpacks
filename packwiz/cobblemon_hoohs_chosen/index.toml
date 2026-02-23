@@ -1986,7 +1986,7 @@ hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "fec52420c98600df19e9ee68c1e00c7a3f03182d1d04d7f90ddbe7e6f1e3a4c8"
+hash = "f6f23361b2c629eaf3da1e2f3bd8c05beb14c3981591cccfd2f3dbfd6883bf88"
 
 [[files]]
 file = "config/rctmod-client.toml"
@@ -2205,20 +2205,8 @@ file = "config/waterdripsound.json"
 hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
 
 [[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+file = "config/xaero/minimap/Server World Template/config.txt"
+hash = "07059cb7c369517311236b651c3a1a394d60a39327adf57d443d19368005bef4"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
