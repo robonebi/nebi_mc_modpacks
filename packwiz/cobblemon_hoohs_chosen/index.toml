@@ -2716,6 +2716,11 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "1fe7374905fbcffd31daff9c3e1f5469623b68b04036908fbc069085aaf72cec"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
