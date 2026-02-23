@@ -74,7 +74,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "96a1dcce91277955e3f92be48bf99952fe4f8f749a8a8b6c70313f230523c5f8"
+hash = "9ca14293603e6665aaa4605ec208e63f5ea139340495f8e793aa04cad8417df8"
 
 [[files]]
 file = "config/accessories_compat.json5"
@@ -1378,7 +1378,7 @@ hash = "6e3f0ed5aa64ae9843c1bb36c63f2122b726dc884d98f78d70dbbbde38c219f9"
 
 [[files]]
 file = "config/cobblemon-battle-extras.json"
-hash = "f3bab36beb607d5f1b4c5087a04a46d0518bf04b33a94a2b1f374a6f6467f8f3"
+hash = "c33c373e0ccbc63bc50b7df8a79138195b876354b72b61890c513c0e0f4ab92f"
 
 [[files]]
 file = "config/cobblemon-spawn-alerts/main.json"
