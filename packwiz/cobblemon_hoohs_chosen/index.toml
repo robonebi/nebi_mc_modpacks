@@ -2298,11 +2298,6 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/cte-tweaked.pw.toml"
-hash = "d0ed4cedf5c0bf5086d0ad067753fc080808bc24508c71cefb7781247d7cf812"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/fd-cobblemon.pw.toml"
 hash = "791af840ab8742797d55dc8835ba7b6863e421a8bab44c42db394492132ac2f2"
 metafile = true

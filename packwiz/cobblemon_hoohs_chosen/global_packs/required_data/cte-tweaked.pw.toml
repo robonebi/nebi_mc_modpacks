@@ -1,8 +1,0 @@
-name = "cte_tweaked"
-filename = "BlazeSpawnersRemain.zip"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/BlazeSpawnersRemain.zip"
-hash-format = "sha256"
-hash = "bb6e892fc6ee53be3642631e50d1779cb7f2d74c7929e537edf77973171309ed"
