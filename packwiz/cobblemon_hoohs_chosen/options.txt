@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/cobblemon:resourcepacks/regionbiasforms","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","betterbeds:fancyconnectedbeds","file/CreateWaxedOutlines-1.0.zip","file/CobblemonTextFixv2.0.2.zip","file/JustExpressions_v1.1.zip","file/Excalibur_Torchmaster.zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/E19 Cobblemon Minimap Icons.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/XaerosMinimap Aether Icons 1.1.0.zip","file/Resonant Battles v1.1.zip","file/Resonant Routes Pack 1.1.zip","coloredeggs","mod/accessorify:resourcepacks/1_21_1/rp"]
+resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/cobblemon:resourcepacks/regionbiasforms","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","betterbeds:fancyconnectedbeds","file/VanillaTweaks_MC1.21.x.zip","file/CreateWaxedOutlines-1.0.zip","file/CobblemonTextFixv2.0.2.zip","file/JustExpressions_v1.1.zip","file/Excalibur_Torchmaster.zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/E19 Cobblemon Minimap Icons.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/XaerosMinimap Aether Icons 1.1.0.zip","file/ATM x MSD [3.3.0].zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/Create_Froakie_Frogport.zip","file/Resonant Battles v1.1.zip","file/music_control_tweaked.zip","coloredeggs","mod/accessorify:resourcepacks/1_21_1/rp"]
 incompatibleResourcePacks:["file/Excalibur_Torchmaster.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/XaerosMinimap Aether Icons 1.1.0.zip"]
 lastServer:
 lang:en_us
@@ -184,16 +184,22 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_key.constructionstick.change_restriction:key.keyboard.unknown
+key_key.constructionstick.change_upgrade:key.keyboard.unknown
+key_key.constructionstick.change_direction:key.keyboard.unknown
+key_key.constructionstick.open_gui:key.keyboard.unknown
+key_key.constructionstick.undo:key.keyboard.unknown
+key_key.constructionstick.show_previous:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.trashslot.toggle:key.keyboard.delete
 key_key.trashslot.toggle_lock:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.unknown
 key_key.trashslot.delete_all:key.keyboard.unknown
-key_key.ars_nouveau.open_book:key.keyboard.c
+key_key.ars_nouveau.open_book:key.keyboard.x
 key_key.ars_nouveau.selection_hud:key.keyboard.v
-key_key.ars_nouveau.next_slot:key.keyboard.x
-key_key.ars_nouveau.previous_slot:key.keyboard.z
-key_key.ars_nouveau.head_curio_hotkey:key.keyboard.g
+key_key.ars_nouveau.next_slot:key.keyboard.unknown
+key_key.ars_nouveau.previous_slot:key.keyboard.unknown
+key_key.ars_nouveau.head_curio_hotkey:key.keyboard.unknown
 key_key.ars_nouveau.open_documentation:key.keyboard.left.control
 key_key.ars_nouveau.qc1:key.keyboard.unknown
 key_key.ars_nouveau.qc2:key.keyboard.unknown
@@ -228,11 +234,11 @@ key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_key.twilightforest.item_display_map_cycle:key.keyboard.c
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.item_display_map_cycle:key.keyboard.c
 key_key.twilightforest.swap_hotbar:key.keyboard.v
-key_key.tempad.shortcut:key.keyboard.unknown
+key_key.twilightforest.zoom:key.keyboard.z
+key_key.tempad.shortcut:key.keyboard.keypad.5
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown
 key_key.tempad.travel_timeline:key.keyboard.unknown
@@ -287,7 +293,7 @@ key_key.cobblemon-battle-extras.battle_logs:key.keyboard.l
 key_key.guideme.guide:key.keyboard.g
 key_key.xycraft_core.modifier_key:key.keyboard.left.control
 key_key.jade.config:key.keyboard.unknown
-key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.j
 key_key.jade.toggle_liquid:key.keyboard.keypad.0
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
@@ -338,14 +344,14 @@ key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.unknown
 key_key.ars_elemental.open_pouch:key.keyboard.j
-key_key.ars_affinity.affinity_ui:key.keyboard.left.bracket
-key_key.ars_affinity.ability:key.keyboard.f
+key_key.ars_affinity.affinity_ui:key.keyboard.unknown
+key_key.ars_affinity.ability:key.keyboard.unknown
 key_key.minecolonies.toggle_goggles:key.keyboard.keypad.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fetzisdisplays.switch_item_mode:key.keyboard.period
 key_key.fetzisdisplays.switch_gui_pos:key.keyboard.comma
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:0.2007042253521127
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
