@@ -1,0 +1,8 @@
+name = "VanillaTweaks"
+filename = "VanillaTweaks_MC1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/resourcepacks/VanillaTweaks_MC1.21.x.zip"
+hash-format = "sha256"
+hash = "c61bd99f85dbe4e78485221e5765c42a113b71552aae3494f20d36bb6286cb7d"

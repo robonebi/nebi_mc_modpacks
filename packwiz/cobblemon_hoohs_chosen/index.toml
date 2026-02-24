@@ -3611,6 +3611,11 @@ hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
 metafile = true
 
 [[files]]
+file = "mods/vanillatweaks.pw.toml"
+hash = "076fa9fa7b6d71094c05037716e07bddfe40570d0abd9c8b5e8f8386ee988f79"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
