@@ -3790,11 +3790,6 @@ hash = "91fc771904b269e623d7792e771199ff84d3b7df51a1085e382e681b8db0168a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vanillatweaks.pw.toml"
-hash = "963e264b0666031974abc6ed061d73a1c362d8d5a3829a261025d7069a96b33e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/xaeros-minimap-aether-icons.pw.toml"
 hash = "c7458d20e3851efb8b22a32b3d323d30dd5b480532aa36788b17b7748d478d9a"
 metafile = true
