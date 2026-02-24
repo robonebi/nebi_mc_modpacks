@@ -1645,34 +1645,6 @@ file = "config/extremesoundmuffler-client.toml"
 hash = "13dbc96f13757679e9723a28f1e6a287468514249fd876fc2de4745e2d9cb5bb"
 
 [[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "bfa242685cc9afa400562ed1699182fb19e60f58d124386ce5732398ca5d34c1"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
 
@@ -2956,11 +2928,6 @@ hash = "71d6f2f0663095f07ed3b0af39c33ba21102dd988d803283f98d6b529fada0d2"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2d7e927b0efdc5e79a50505151975605b355d14d7da2a475aa8a767697911651"
-metafile = true
-
-[[files]]
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "f725640348e9ae5af4edd59d1498fc7c08e58dddc29e1dd41056432a93d2737e"
 metafile = true
@@ -3611,11 +3578,6 @@ hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
 metafile = true
 
 [[files]]
-file = "mods/vanillatweaks.pw.toml"
-hash = "076fa9fa7b6d71094c05037716e07bddfe40570d0abd9c8b5e8f8386ee988f79"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
@@ -3792,6 +3754,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/resonant-routes-music-pack.pw.toml"
 hash = "91fc771904b269e623d7792e771199ff84d3b7df51a1085e382e681b8db0168a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanillatweaks.pw.toml"
+hash = "076fa9fa7b6d71094c05037716e07bddfe40570d0abd9c8b5e8f8386ee988f79"
 metafile = true
 
 [[files]]
