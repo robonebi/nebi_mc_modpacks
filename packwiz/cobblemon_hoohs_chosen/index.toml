@@ -2808,6 +2808,11 @@ hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
 metafile = true
 
 [[files]]
+file = "mods/cte-tweaks.pw.toml"
+hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true

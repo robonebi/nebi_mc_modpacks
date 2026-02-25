@@ -1,0 +1,8 @@
+name = "cte-tweaks"
+filename = "cte_tweaks.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/cte_tweaks.zip"
+hash-format = "sha256"
+hash = "4bfa35ce88a88fa726069df1a226b34b9ce8800ce7e3cc27f7954f28bef4bf7c"
