@@ -173,7 +173,7 @@
 		"Item Render Scale" = 1.5
 
 	[building.gold_bars]
-		"Generate In Nether Fortress" = true
+		"Generate In Nether Fortress" = false
 
 	[building.hollow_logs]
 		"Enable Auto Crawl" = true
