@@ -2258,6 +2258,11 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/cte-tweaks.pw.toml"
+hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/fd-cobblemon.pw.toml"
 hash = "791af840ab8742797d55dc8835ba7b6863e421a8bab44c42db394492132ac2f2"
 metafile = true
@@ -2805,11 +2810,6 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
-metafile = true
-
-[[files]]
-file = "mods/cte-tweaks.pw.toml"
-hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
 metafile = true
 
 [[files]]
