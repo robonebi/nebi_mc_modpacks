@@ -3523,6 +3523,11 @@ hash = "94d918097e4d76c4f6693e4675c0a386069773f862a22f9b302a075ff1063ebb"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "ea33d99764a8bae0618db5fc2eebec624f72f49bd6189b9818eb214687f71a82"
+metafile = true
+
+[[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "8a7cca23996635e2171cfdf4bef21c7674a979225011e2243b3ff09f168e88f6"
 metafile = true
@@ -3707,6 +3712,11 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-caps.pw.toml"
+hash = "7ed615c6d879abd3644c372004f79afb74f6e4af8bfebe4ddec1d4babd1173ac"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemon-3d-poke-rods.pw.toml"
 hash = "a07092570c4bc9b945851e7364b931b04bae22c7190bc1e384d73fc66f4c6f91"
 metafile = true
@@ -3714,6 +3724,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-3d-pokenavs.pw.toml"
 hash = "1a00e5938241c02515df63e4873a5ee2ef164c5f587013c37e7001d027869827"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-pasture-enhanced.pw.toml"
+hash = "1b803dd34c7686e35c73dc68feeef750bb05e4ef2582a84bb5f51b28a6c52cf1"
 metafile = true
 
 [[files]]
