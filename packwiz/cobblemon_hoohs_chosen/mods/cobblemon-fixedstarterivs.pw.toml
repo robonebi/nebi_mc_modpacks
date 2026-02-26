@@ -1,6 +1,6 @@
 name = "Cobblemon Fixed Starter IVs"
 filename = "fixedstarterivs-neoforge-1.7.3-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dwxBClup/versions/jijT94os/fixedstarterivs-neoforge-1.7.3-1.1.0.jar"
