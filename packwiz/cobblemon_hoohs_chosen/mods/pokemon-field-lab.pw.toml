@@ -1,0 +1,13 @@
+name = "Pokémon Field Lab"
+filename = "cbmnfieldlab-neoforge-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FUnBD8c/versions/b1ibDwo3/cbmnfieldlab-neoforge-2.0.2.jar"
+hash-format = "sha512"
+hash = "9f0cc390910afca489f9b877e35759939f64e61fd510a7520be5f510a7f67ee2e47b87f16360d8dcb55b65ca8bd7d86c16b370f1f856ad9c4bcbd067c2016509"
+
+[update]
+[update.modrinth]
+mod-id = "8FUnBD8c"
+version = "b1ibDwo3"

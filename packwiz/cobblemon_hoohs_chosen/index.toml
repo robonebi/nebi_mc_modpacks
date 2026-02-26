@@ -2633,6 +2633,11 @@ hash = "483ecd79543259eef30a067387b0cfcf3b6f5eb0d97b219b5ed2587936d3a593"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-snap.pw.toml"
+hash = "09f03262603d5f8a7c03b5c59911c2e11bafb4adf985586a1bc9c7e0f1bc01a5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-spawn-alerts.pw.toml"
 hash = "8a5e2eac50ccf1aa535af3fd86324c2316e7d1f93bc82f2779e9764614bcb2fb"
 metafile = true
@@ -3380,6 +3385,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/pokemon-field-lab.pw.toml"
+hash = "adceca813bf0ada177f29e9ec9ef2560c3443f72ea7a707056179070b605d843"
 metafile = true
 
 [[files]]

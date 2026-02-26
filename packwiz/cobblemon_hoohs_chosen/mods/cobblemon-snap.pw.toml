@@ -1,0 +1,13 @@
+name = "Cobblemon Snap"
+filename = "cobblemon_snap-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnZmbG9O/versions/sgtVXRpv/cobblemon_snap-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "26a538898ba723b16d50f05c95862525820ed7feda95907948208e8be7290c0d60a38bbbf56c7a53158c7d88ac3bba8729672101d16930387f629af4f68ee0ae"
+
+[update]
+[update.modrinth]
+mod-id = "pnZmbG9O"
+version = "sgtVXRpv"
