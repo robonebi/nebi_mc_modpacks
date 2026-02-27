@@ -1401,6 +1401,10 @@ file = "config/cobblemon/main.json"
 hash = "519fc4f0e0537322830ea92d1e54fef95b180f7be3ffde2a15ec458cba30da7c"
 
 [[files]]
+file = "config/cobblemon/starters.json"
+hash = "2e98d6e4fcc87d9d03200588409ff942b87ed88d084b143dd10120ff83740f19"
+
+[[files]]
 file = "config/cobblemon_smartphone.json"
 hash = "7a61ebc04ca49605b033f888c42c6d22465f6b3d346c6cbbda61fbd08d0cec65"
 
