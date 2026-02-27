@@ -1,0 +1,8 @@
+name = "heliora-region"
+filename = "heliora_region.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/resourcepacks/heliora_region.zip"
+hash-format = "sha256"
+hash = "f8c4ce2d9714396736842cb0468f0be70c45791aa609ebbf993be3f6bbdb9d99"
