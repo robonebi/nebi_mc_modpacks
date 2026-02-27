@@ -95,7 +95,7 @@
     },
 	{
       "name": "Heliora",
-      "displayName": "cobblemon.starterselection.category.heliora",
+      "displayName": "Heliora",
       "pokemon": [
 		"Gible level=10 gender=male",
         "Wooloo level=10",

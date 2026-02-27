@@ -1402,7 +1402,7 @@ hash = "519fc4f0e0537322830ea92d1e54fef95b180f7be3ffde2a15ec458cba30da7c"
 
 [[files]]
 file = "config/cobblemon/starters.json"
-hash = "2e98d6e4fcc87d9d03200588409ff942b87ed88d084b143dd10120ff83740f19"
+hash = "6104c5271b2d34b0ed7fafcc105703593eb9ca7ab6d4c2e18f231dea34250d6c"
 
 [[files]]
 file = "config/cobblemon_smartphone.json"
@@ -3790,11 +3790,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/excalibur-torchmaster.pw.toml"
 hash = "c7cadd42e875b485f81560b512098dceee0fbf560e61e6394995892f41fea4a4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/heliora-region.pw.toml"
-hash = "f629984a432d1e7b0ad9c4e1790cdf3e0c415607b27d488e6c43bceb06350044"
 metafile = true
 
 [[files]]
