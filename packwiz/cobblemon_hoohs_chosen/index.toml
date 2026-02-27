@@ -1681,6 +1681,10 @@ file = "config/fightorflight_visual_effect.json5"
 hash = "1968fe408691b02837f80aedb9c1009b913d4eb482a6d8a590eeca57703a50cb"
 
 [[files]]
+file = "config/fixed_starter_ivs.json"
+hash = "cfe78c3dabf254b50a9caabcd90b0898349ac0d733e912933a8c2724f094d96c"
+
+[[files]]
 file = "config/flerovium.json"
 hash = "566a6c273c8d4854691a6829f20c433215e8a1b8f8fa01fd2ee394d5a54c9a24"
 
