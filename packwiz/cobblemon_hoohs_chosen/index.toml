@@ -2101,6 +2101,10 @@ file = "config/sophisticatedstorage-server.toml"
 hash = "6ae63a470c4fa9577fb06b59464756c410e2d67a8f7c0aac03f8dae24c4678fe"
 
 [[files]]
+file = "config/starterkit.json5"
+hash = "6ce0c31087ca4043d580774e2d8cbb30b97bc08275151f05e7eb29c07490d895"
+
+[[files]]
 file = "config/structurize-client.toml"
 hash = "76b1f7a16add77265a6fffabb06b6cd2730be3d6959c425c62ebe1f1532e14e8"
 
@@ -3704,7 +3708,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fe7c2a0a11903667d2a2f3c7e4c354a398bce2e4f9246b64ae5f902b918c28d1"
+hash = "32b95739d47e14b44c677cbfcd91a43bd3eaf72ca52294f6df5f22f9c67a0349"
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
