@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/cobblemon:resourcepacks/regionbiasforms","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","betterbeds:fancyconnectedbeds","file/VanillaTweaks_MC1.21.x.zip","file/CreateWaxedOutlines-1.0.zip","file/CobblemonTextFixv2.0.2.zip","file/JustExpressions_v1.1.zip","file/Excalibur_Torchmaster.zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/E19 Cobblemon Minimap Icons.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/XaerosMinimap Aether Icons 1.1.0.zip","file/ATM x MSD [3.3.0].zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/Create_Froakie_Frogport.zip","file/Resonant Battles v1.1.zip","file/music_control_tweaked.zip","coloredeggs","file/Better Caps! [v1.0].zip","file/Cobblemon Pasture Enhanced v4.zip","mod/accessorify:resourcepacks/1_21_1/rp"]
+resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/cobblemon:resourcepacks/regionbiasforms","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","betterbeds:fancyconnectedbeds","file/VanillaTweaks_MC1.21.x.zip","file/CreateWaxedOutlines-1.0.zip","file/CobblemonTextFixv2.0.2.zip","file/JustExpressions_v1.1.zip","file/Excalibur_Torchmaster.zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/E19 Cobblemon Minimap Icons.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/XaerosMinimap Aether Icons 1.1.0.zip","file/ATM x MSD [3.3.0].zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/Create_Froakie_Frogport.zip","file/Resonant Battles v1.1.zip","file/music_control_tweaked.zip","coloredeggs","file/Better Caps! [v1.0].zip","file/Cobblemon Pasture Enhanced v4.zip","file/heliora_region.zip","mod/accessorify:resourcepacks/1_21_1/rp"]
 incompatibleResourcePacks:["file/Excalibur_Torchmaster.zip","file/iB - 3D Cobblenav-FabricPatch.zip","file/XaerosMinimap Aether Icons 1.1.0.zip"]
 lastServer:
 lang:en_us
@@ -229,15 +229,15 @@ key_placebo.toggleWings:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.z
-key_key.twilightforest.swap_hotbar:key.keyboard.v
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.c
+key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.tempad.shortcut:key.keyboard.keypad.5
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown

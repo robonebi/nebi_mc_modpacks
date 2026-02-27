@@ -3740,7 +3740,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "32b95739d47e14b44c677cbfcd91a43bd3eaf72ca52294f6df5f22f9c67a0349"
+hash = "3ca181e5810867d5d36cbd3475a54fa4aac70c66f17dd425c92bfeb6b6fbb178"
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
