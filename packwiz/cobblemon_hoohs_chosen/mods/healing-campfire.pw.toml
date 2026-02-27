@@ -1,6 +1,6 @@
 name = "Healing Campfire"
 filename = "healingcampfire-1.21.1-6.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kOuPUitF/versions/Dq3x3ElV/healingcampfire-1.21.1-6.2.jar"

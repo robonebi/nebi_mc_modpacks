@@ -2370,7 +2370,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
@@ -2575,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleboom.pw.toml"
-hash = "5d0b6ee3db4e8440a396fe52a00e694e0a47297e0076664eee732800b2b08603"
+hash = "528a4a65821570b6bfffb54685f3701ba41013d387b4e7043f6fdf5500502b79"
 metafile = true
 
 [[files]]
@@ -2595,12 +2595,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "d3848b010ba3593e125aaa415ff786fd64dcb0d1726785c58176fdbd3b8bdb74"
+hash = "418e00920f24ef960858eec94feaa9ea7361ca2b53dda230efee45c2fbd50576"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-challenge.pw.toml"
-hash = "86715e976d87465c2be4a18eee4944bf6b8d4d82b42ca41fbe3f9bf12bc3bad5"
+hash = "9a60b274930a17a3f610f5611f07259cbecf1a9011b87e662aa9c9e15f336954"
 metafile = true
 
 [[files]]
@@ -2645,7 +2645,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "4e880225fd552e713821c7be138a2282912652985f7660c4fef6cb41521dcbe2"
+hash = "b0e198f7b7cac51ab5ecb3c0871e0be64d0f0ccc69048194be21857000e11b20"
 metafile = true
 
 [[files]]
@@ -2660,7 +2660,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "c9276959e9375f398c974b348a670447092647e206e100b681c14bc36faef738"
+hash = "a8ece9671c4ee2b8793693d5da734c189c561c9410a0a758006f5a568aceaa96"
 metafile = true
 
 [[files]]
@@ -2705,7 +2705,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "7ab422ae7a3b9b95f52942d732ffa41bc67e73a055434f5069997d457efc91fa"
+hash = "43ac0d3f978a006bf8f64fce334625fe16e8eee535eae6ed18f6e246d9c5a943"
 metafile = true
 
 [[files]]
@@ -2745,7 +2745,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "ad35139007c512c76be9945e89ad86e27b3d13bdefb31931486a2a1348321830"
+hash = "bdf4470dffce235c3db087fb7717c551d4f1b213fe0de066342a7d3e8e0100d0"
 metafile = true
 
 [[files]]
@@ -2815,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+hash = "987f762c305a3e6264b3379388467d7d4d90b89a6e08aa83edac0f6172db4f72"
 metafile = true
 
 [[files]]
@@ -2840,7 +2840,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]
@@ -2880,7 +2880,7 @@ metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
-hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
+hash = "839fe18f0bca3f52ee0f7b8b303c314b5858ca1f86511244ed9449de8192928c"
 metafile = true
 
 [[files]]
@@ -3005,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "dfea23fdac9822913ae8f1c8751e9f0978ad4398ed8f9e45ca1a69c71025e979"
+hash = "3906397a3ebbc40c0978609fcf0934fab3870c2f7dd9f29ec65b1f257d7d2750"
 metafile = true
 
 [[files]]
@@ -3030,7 +3030,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
-hash = "12e1f29bb1c44e639e5ddc02d192ad19530a5cf9bf747f470e71a59b03f7fc9f"
+hash = "80d7bb007639d1cef69d71f0f2d10ef01d43c276394bef440a89a89384f47600"
 metafile = true
 
 [[files]]
@@ -3090,7 +3090,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "38a63fb278b3cb4e91fa592240f7555a6c5798bb1648527fb6b7cf763c976036"
+hash = "91b1f68b813b789c10856f03b6924ea4fd4e596fe5fc50ec6e7a7bb0e6337bd3"
 metafile = true
 
 [[files]]
@@ -3125,7 +3125,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "5598f5f868755c468a30d950991ffca9c100302865a67219dff94f031dbb349b"
+hash = "b6b200be527af83bf719795cbb498cb12c041d42c251f7156c399e514e9a8d71"
 metafile = true
 
 [[files]]
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
@@ -3360,7 +3360,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]

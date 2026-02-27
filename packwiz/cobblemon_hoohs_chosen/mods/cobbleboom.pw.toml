@@ -1,6 +1,6 @@
 name = "CobbleBoom"
 filename = "cobbleboom-neoforge-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/75Ons9AY/versions/Sewatgxu/cobbleboom-neoforge-1.4.jar"
