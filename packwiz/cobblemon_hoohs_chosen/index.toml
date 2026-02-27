@@ -3094,11 +3094,6 @@ hash = "987540e1b9fc631a37768d9d0f7c62380833d75e39c7000e88cba75a1855a6c5"
 metafile = true
 
 [[files]]
-file = "mods/heliora-region.pw.toml"
-hash = "f629984a432d1e7b0ad9c4e1790cdf3e0c415607b27d488e6c43bceb06350044"
-metafile = true
-
-[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
@@ -3795,6 +3790,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/excalibur-torchmaster.pw.toml"
 hash = "c7cadd42e875b485f81560b512098dceee0fbf560e61e6394995892f41fea4a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/heliora-region.pw.toml"
+hash = "f629984a432d1e7b0ad9c4e1790cdf3e0c415607b27d488e6c43bceb06350044"
 metafile = true
 
 [[files]]
