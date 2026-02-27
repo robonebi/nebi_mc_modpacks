@@ -2105,6 +2105,30 @@ file = "config/starterkit.json5"
 hash = "6ce0c31087ca4043d580774e2d8cbb30b97bc08275151f05e7eb29c07490d895"
 
 [[files]]
+file = "config/starterkit/descriptions/TrainerKit.txt"
+hash = "776bdeffd86a50587f9b3451e14845de2416e55cbcc26f85d6c21b626fa702b8"
+
+[[files]]
+file = "config/starterkit/kits/TrainerKit.txt"
+hash = "c4332b17468c89c638bd63aa3845a1e87dc8003d12507dad667e3c8a278a7719"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Archer.txt"
+hash = "da428925f985e0dd610de8cd21e8ff5c433b3c08e8fa02cad65353fc2de9fb77"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Default.txt"
+hash = "4554f1366724aa5b7cbdf54f949664178c221685e2600e1646fef0341d520b7a"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Lumberjack.txt"
+hash = "e9ed3b597e1cff6e3f01f1a6ef16bc35181c7e1a4c6556b8399b5ea41d0d278f"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Witch.txt"
+hash = "acf56d3d8e4737cf8fc0be14eab977a9eb266a57e004ed2e67c7882a249a62bb"
+
+[[files]]
 file = "config/structurize-client.toml"
 hash = "76b1f7a16add77265a6fffabb06b6cd2730be3d6959c425c62ebe1f1532e14e8"
 
