@@ -2859,16 +2859,6 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
 file = "mods/databank.pw.toml"
 hash = "beb789c1820089778351534cc926b5b0144a638b2ead5817faaf47ca131bfd6d"
 metafile = true
@@ -3374,11 +3364,6 @@ hash = "e59b9fe0cc9c1ef31a583f64eaf27738e2fe6b7dfcd0160615a9958b7159012e"
 metafile = true
 
 [[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -3429,11 +3414,6 @@ hash = "adceca813bf0ada177f29e9ec9ef2560c3443f72ea7a707056179070b605d843"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
-metafile = true
-
-[[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
@@ -3461,16 +3441,6 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "81138340af7e8eb855dbb77ba3ab76e8cfa0cdff747e01dd4f15daed59d7a7bc"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
