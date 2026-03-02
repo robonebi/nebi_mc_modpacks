@@ -2903,6 +2903,11 @@ hash = "3298439919588dd564e9174af6cfc8496b253706f78407c881b4216e999b5234"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "4c404e9cbac4caf352804b3a4c7943941ff31772e20cfb1076a680f25e6b68e7"
+metafile = true
+
+[[files]]
 file = "mods/embers-text-api.pw.toml"
 hash = "dc0a1f91d3d9ce9ab9e804d063bf227e4e5a7f8dc96cf319a0067810710e636c"
 metafile = true
@@ -3650,6 +3655,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/workshop-for-handsome-adventurer.pw.toml"
+hash = "7b565d3e4df7fdb562c343e65b60586aa8355712d6aa51aea3db2ddc8845e5fa"
 metafile = true
 
 [[files]]
