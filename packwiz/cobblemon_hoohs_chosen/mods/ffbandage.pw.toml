@@ -1,0 +1,13 @@
+name = "FFBandage"
+filename = "ffbandage-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kJKZNbK6/versions/KLcuEpBG/ffbandage-0.0.2.jar"
+hash-format = "sha512"
+hash = "966d17adbd16c618a367ea31ce56dd00a42ac9293e89f1f72733e5670209ade89813d9b4f0d10dc10fa442d9a1efcf17d62ebab4a9355d5a6b373e3c162f8b99"
+
+[update]
+[update.modrinth]
+mod-id = "kJKZNbK6"
+version = "KLcuEpBG"

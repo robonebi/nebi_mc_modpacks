@@ -1673,6 +1673,10 @@ file = "config/fetzis_displays/fetzis-displays-config.json"
 hash = "29f89c695131c690b25f7f639d9e2f57f49b444d1df2a4c444ff0636b0295ebc"
 
 [[files]]
+file = "config/ffbandage-common.toml"
+hash = "ec05cc94237579c6d01f6830e03f5a5abc76b15395e20c10d1d607aa870efcd0"
+
+[[files]]
 file = "config/fightorflight.json5"
 hash = "791b7111edb04631e300b57143f22d0a84f121830fd3ed94def40ae2cbd35caa"
 
@@ -1737,8 +1741,8 @@ file = "config/guideme.toml"
 hash = "e4f58ced20ccf200592141f4afcad54a0d33faa6b672a90e58781c1a8183a036"
 
 [[files]]
-file = "config/hungertweaker-common.toml"
-hash = "ffc8e05d7e6d77544a547b7cdbc40436a7c9568ea4322c1025c9e627b92bd05c"
+file = "config/hunger_tweaks.json"
+hash = "9d8176e72edef140ebea6a35e6c37ea0ce9f410a866db663358f18dedf5cace1"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -3024,6 +3028,11 @@ hash = "ec14943c6d644f0df9c0dc79c76ec1e9fb669f1fc83f769f2ffdd48ee6e25a87"
 metafile = true
 
 [[files]]
+file = "mods/ffbandage.pw.toml"
+hash = "fd097cfbb1977cd59402dea9f84e6713177fee232728a604f7b35f1b2a3dc1d7"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
@@ -3104,8 +3113,8 @@ hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
-file = "mods/hunger-controler.pw.toml"
-hash = "0d748c8505a5db10f97a31cbce16baa9f0a3aecd1ef9c66c32d86cac62766dae"
+file = "mods/hunger-tweaks.pw.toml"
+hash = "c74e103fe3b4e066ccb7aedcaeb1884a6cd18729699e68094194c7131c3ad119"
 metafile = true
 
 [[files]]
