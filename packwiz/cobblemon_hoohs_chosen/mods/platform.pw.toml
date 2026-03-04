@@ -1,6 +1,7 @@
 name = "Platform"
 filename = "Platform-neoforge-1.21.1-1.2.11.6.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/ZmMlPE4e/Platform-neoforge-1.21.1-1.2.11.6.2.jar"

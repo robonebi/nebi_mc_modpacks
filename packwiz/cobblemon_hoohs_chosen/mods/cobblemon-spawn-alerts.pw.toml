@@ -1,13 +1,13 @@
 name = "Cobblemon Spawn Alerts"
-filename = "cobblemon_spawn_alerts-neoforge-1.12.2.jar"
+filename = "cobblemon_spawn_alerts-neoforge-1.13.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pb6jwG0t/versions/XqsczOHg/cobblemon_spawn_alerts-neoforge-1.12.2.jar"
+url = "https://cdn.modrinth.com/data/pb6jwG0t/versions/uTOz5PIq/cobblemon_spawn_alerts-neoforge-1.13.1.jar"
 hash-format = "sha512"
-hash = "323a9b91e5cef6a25ff9b122a0658ef01129531fe0690b235c20e918c3346c9f8e66d167b7112f931ef197b6d08b156d479769626c5c03780ccd8cc5c2d23cff"
+hash = "214ddc23940be3306fb0d768bd1dd3e1536976444a0d57a83ba035e2be48d6c1f7f24fcf6822d1b0cc2833cd4ee5c9db8ae5bfda70d7402cbcca771b10821ff8"
 
 [update]
 [update.modrinth]
 mod-id = "pb6jwG0t"
-version = "XqsczOHg"
+version = "uTOz5PIq"

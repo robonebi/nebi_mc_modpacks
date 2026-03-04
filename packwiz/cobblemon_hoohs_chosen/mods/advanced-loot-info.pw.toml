@@ -1,13 +1,13 @@
 name = "Advanced Loot Info"
-filename = "AdvancedLootInfo-neoforge-1.21.1-1.7.2.jar"
+filename = "AdvancedLootInfo-neoforge-1.21.1-1.7.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PEPVViac/versions/QrSOEGdv/AdvancedLootInfo-neoforge-1.21.1-1.7.2.jar"
+url = "https://cdn.modrinth.com/data/PEPVViac/versions/oitYTQl2/AdvancedLootInfo-neoforge-1.21.1-1.7.3.jar"
 hash-format = "sha512"
-hash = "3de83d21ffd1c0de0e619e8ad9d9547d442fe8a145a78e682ba9e3f656b778b9a4e6da2307bf967e17fc2b1348db907e58041efbd2776f0917f1ed877badf412"
+hash = "bc508612c1041f3c67b1e83c28016765c9ab46ee85be9670cfccd82232653d0a3a44d7144ccfdbe34a55fa061db9c7d6517b97ea5cbdb8e0c238a299f8c4af4c"
 
 [update]
 [update.modrinth]
 mod-id = "PEPVViac"
-version = "QrSOEGdv"
+version = "oitYTQl2"

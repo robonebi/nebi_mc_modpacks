@@ -1,6 +1,7 @@
 name = "Zeta"
 filename = "Zeta-1.1-39.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar"
