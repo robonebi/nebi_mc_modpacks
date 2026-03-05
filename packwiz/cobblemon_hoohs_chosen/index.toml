@@ -2414,7 +2414,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "57055c2f8da63471ee707aa5f5beeb918d204bab137d0d06a9fdbf1b0c215886"
+hash = "cee6491a1a8d1f33cff401af708d1b65942a8e8fbf9f13fbd90abcf802e9e3b0"
 metafile = true
 
 [[files]]
@@ -2674,12 +2674,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-smartphone.pw.toml"
-hash = "483ecd79543259eef30a067387b0cfcf3b6f5eb0d97b219b5ed2587936d3a593"
+hash = "a983b8e705e5470ac351f2b83558b0f8fe342acd215836bf0bf67acd3dff2da0"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-snap.pw.toml"
-hash = "09f03262603d5f8a7c03b5c59911c2e11bafb4adf985586a1bc9c7e0f1bc01a5"
+hash = "56247144608a8cb90c6739081f982b365c92847c22b35e4f906e1636bd113f3f"
 metafile = true
 
 [[files]]
@@ -2979,12 +2979,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "43772cecb231febf642295f4713b09d59941778ef1a32c5c86ef100ea7d35787"
+hash = "7b6dbe885c4fa12d5c9cb8182138305575eff19aed1e7f969a5ef343f841ee87"
 metafile = true
 
 [[files]]
 file = "mods/extended-ae.pw.toml"
-hash = "a79c34c9eb352551bf103e4d0b07a485ffeca9f12a9af92b31a3b2d4a4cb1b2e"
+hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
 metafile = true
 
 [[files]]
@@ -3349,7 +3349,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e923317353c5757cb6ee256b327fb9f2159a2b38bc058ddd9489002fcf5d84b8"
+hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
 metafile = true
 
 [[files]]
@@ -3609,7 +3609,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "145381a0f734b289a5ce40c994b10292b5749a8f20fd2e4e220eb3cb10d365e9"
+hash = "599e373cbd3ff6fbe64a00ec53a5275fe583e60d3c5593508d13d1846e329952"
 metafile = true
 
 [[files]]

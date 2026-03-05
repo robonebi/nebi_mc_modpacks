@@ -1,13 +1,13 @@
 name = "Cobblemon Snap"
-filename = "cobblemon_snap-neoforge-1.0.0.jar"
+filename = "cobblemon_snap-neoforge-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pnZmbG9O/versions/sgtVXRpv/cobblemon_snap-neoforge-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/pnZmbG9O/versions/M1AArjsu/cobblemon_snap-neoforge-1.1.2.jar"
 hash-format = "sha512"
-hash = "26a538898ba723b16d50f05c95862525820ed7feda95907948208e8be7290c0d60a38bbbf56c7a53158c7d88ac3bba8729672101d16930387f629af4f68ee0ae"
+hash = "9b1c7158081a74b5d0e1202634d14cc7575bd665d20e5cb1406c8e9f19824407e264aeb8103c6e5e055637c377fb2a369e0a7f899e52ed6647457c90b872c1a8"
 
 [update]
 [update.modrinth]
 mod-id = "pnZmbG9O"
-version = "sgtVXRpv"
+version = "M1AArjsu"
