@@ -2649,7 +2649,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "2b126a6887fa2a2c6a935ec52b549c40b1d85593a1d6a71d501b8846dde043d4"
+hash = "d17926879949f4b5463f90a1f20b12f038c5dc4844c9ecf5c251d4dbea77b376"
 metafile = true
 
 [[files]]
@@ -3609,7 +3609,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "599e373cbd3ff6fbe64a00ec53a5275fe583e60d3c5593508d13d1846e329952"
+hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
 metafile = true
 
 [[files]]
