@@ -1,0 +1,8 @@
+name = "torchier-torchflowers"
+filename = "torchier_torchflowers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/custom_mods/torchier_torchflowers-1.0.0.jar"
+hash-format = "sha256"
+hash = "153c49e43a49c51019c58dcf8977ea713760c293553115289ce63662cf227c13"

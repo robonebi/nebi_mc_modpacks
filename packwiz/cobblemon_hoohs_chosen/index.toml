@@ -3658,6 +3658,11 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
+file = "mods/torchier-torchflowers.pw.toml"
+hash = "57a72df3f6d5f0f5996b4e5f5f3cea3cf0dbc497404272cd5bfd99a3fbbeff75"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster-cobblemon-compat.pw.toml"
 hash = "a6f684e071a2e53086bc9281338a5509efc452946252ffe775eb29a513c8b036"
 metafile = true
