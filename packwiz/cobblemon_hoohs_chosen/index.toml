@@ -2298,6 +2298,11 @@ hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/ap-tags.pw.toml"
+hash = "ca35ce912b4145895d18a606c5aa42fdb849c509b2ab7a18c8c257e537c28172"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/cte-tweaks.pw.toml"
 hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
 metafile = true
@@ -2390,11 +2395,6 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
-metafile = true
-
-[[files]]
-file = "mods/ap-tags.pw.toml"
-hash = "ca35ce912b4145895d18a606c5aa42fdb849c509b2ab7a18c8c257e537c28172"
 metafile = true
 
 [[files]]
