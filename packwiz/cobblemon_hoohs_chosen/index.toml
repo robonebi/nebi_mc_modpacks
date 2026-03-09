@@ -2323,6 +2323,11 @@ hash = "2e24f982607f5435d52a2b7b6ed7ea81e380c52d9799acc1469a23febddef488"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/ho-oh-poser-fix.pw.toml"
+hash = "c5d27d095411b48c5a8d6ddf79328b2ac95cdb78164c19a2104141bc96e701fe"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
@@ -2349,7 +2354,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "0963118ad515a23247ec22d9be62247268e8364d078d2e7b5a8a9179934d1dd4"
+hash = "ab2e3ea9b077f439817ee93bf5e092e2973dfbb64256cd9399567f680afa8960"
 metafile = true
 
 [[files]]
@@ -2514,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "b3a5fa375e46002ddb4b837d7e83597f985f987ab208a0465bad60b4a2565c03"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
@@ -2569,7 +2574,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "7d8e94d889e02d47d850872988a6a46f4cef5e5ad0030f3035f01c133b359032"
+hash = "56c22d19d851935a00ba8c65fcde2ffb2c57e508d3c1d3385e87a42547fecb16"
 metafile = true
 
 [[files]]
@@ -2653,8 +2658,13 @@ hash = "d17926879949f4b5463f90a1f20b12f038c5dc4844c9ecf5c251d4dbea77b376"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mekanism-industries.pw.toml"
+hash = "8c8969b324348712fa7a7b4513adf9fe911fd62ddd86cbfe159e767e694e5d95"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "abebcbaaf328c8cf65464e863779595da63d918c618fe92e62365f8d4493c1a3"
+hash = "e8eba7d7e8ec95ccff55fb4dc6620c890148a53f5a1221294d935beb36885ab2"
 metafile = true
 
 [[files]]
@@ -2684,7 +2694,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-alerts.pw.toml"
-hash = "3561620212719a5993414a0be2870760839a27932daa36acc4b11653307ae8c3"
+hash = "f3a69836d88a8655e1d4a504e92fffcd4252d5740a66f13a95f437fb6efa6a0c"
 metafile = true
 
 [[files]]
@@ -2774,7 +2784,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
+hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
 metafile = true
 
 [[files]]
@@ -2820,6 +2830,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "0cc21d93573e2a8f2ac2744f93db54f08cba3a3129ee84c4800190a529c783e6"
 metafile = true
 
 [[files]]
@@ -3219,7 +3234,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "64ccab25e470f544aa1bb0cb388ac5c66dbaf80c0136141250e2256a860894a6"
+hash = "4938df12efb521463114135f453e82eeca8469493b359f07414f51a78da20735"
 metafile = true
 
 [[files]]
@@ -3399,7 +3414,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+hash = "86ce4c3fb78e360ff67a43e2779f1d52333267d799b1a252969589092d55bb6a"
 metafile = true
 
 [[files]]
@@ -3429,7 +3444,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -3518,6 +3533,11 @@ hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
 metafile = true
 
 [[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "af36cf0aa85c590f2f5720da468484ed1f7197c5f00391eff41e757b93b05bc5"
 metafile = true
@@ -3559,7 +3579,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3477a21180608fd31e4699790711274d2f3b9b0c30376a8aa16d7de9aaf30833"
+hash = "3cc8a6b4f0caa73eb00a018bd15f2359b1d801cf46d25c7654135c38c73ce009"
 metafile = true
 
 [[files]]
@@ -3704,7 +3724,7 @@ metafile = true
 
 [[files]]
 file = "mods/yori3os-grappling-hooks.pw.toml"
-hash = "d417a1c502691abc531a3d512d50264136a8aa9d765b90c010de04a9eef419df"
+hash = "01890ee4c2109e5f02ce758e92537ea65c579af19aeeda640d00fdf04b79d1a2"
 metafile = true
 
 [[files]]

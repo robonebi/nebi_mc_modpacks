@@ -1,0 +1,8 @@
+name = "ho-oh-poser-fix"
+filename = "Ho-oh Poser Fix.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/resourcepacks/Ho-oh%20Poser%20Fix.zip"
+hash-format = "sha256"
+hash = "c7492f9cbaf49d84b773586ff5fc9a6e3665e36068884f2196453d1ca8ffac28"
