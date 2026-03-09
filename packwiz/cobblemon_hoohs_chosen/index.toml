@@ -2393,6 +2393,11 @@ hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
 
 [[files]]
+file = "mods/ap-tags.pw.toml"
+hash = "ca35ce912b4145895d18a606c5aa42fdb849c509b2ab7a18c8c257e537c28172"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
