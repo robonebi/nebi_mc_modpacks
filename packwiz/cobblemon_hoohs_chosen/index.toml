@@ -3393,6 +3393,11 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "27914b1d105a01cc3ed0d4afacd52376b75ed9352f376aa065ba76b261794024"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
