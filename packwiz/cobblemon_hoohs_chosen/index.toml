@@ -1705,6 +1705,10 @@ file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
+file = "config/freecam.json5"
+hash = "b30822393c4c3295086259891ef296f0b2610005666e7e549f4cfc3367c9b796"
+
+[[files]]
 file = "config/ftblibrary-client.snbt"
 hash = "331cb55d89e2a7499ca2cd3e272dcda13fc68a20335fa4349dade576a5fed436"
 
