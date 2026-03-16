@@ -1,0 +1,8 @@
+name = "pastel-crushing"
+filename = "pastel_crushing.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/pastel_crushing.zip"
+hash-format = "sha256"
+hash = "43c2a76e808d8f273e36b716e7705707970574e731080ee0205d1036e43baa90"
