@@ -3071,11 +3071,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/fetzis-asian-decoration.pw.toml"
-hash = "b67f1ae2a49813e78a29797e58963b2bc25f3b1769420bbfddd064ca30c93e55"
-metafile = true
-
-[[files]]
 file = "mods/fetzis-displays.pw.toml"
 hash = "ec14943c6d644f0df9c0dc79c76ec1e9fb669f1fc83f769f2ffdd48ee6e25a87"
 metafile = true
