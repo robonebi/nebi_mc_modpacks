@@ -2606,11 +2606,6 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
-file = "mods/cobbleboom.pw.toml"
-hash = "528a4a65821570b6bfffb54685f3701ba41013d387b4e7043f6fdf5500502b79"
-metafile = true
-
-[[files]]
 file = "mods/cobbledgacha.pw.toml"
 hash = "54d68aac07811613255456bf39a9a882db4b6f9c564689229cbf6ca2984afaf7"
 metafile = true
