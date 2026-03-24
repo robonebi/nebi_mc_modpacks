@@ -2462,7 +2462,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-zero.pw.toml"
-hash = "3d7ff77cb1358aec649d6c72f79db2417e1368a974d992c2cd91dacad5c7038d"
+hash = "7efe1f71b593295b6e9ba28825b36d5abacafda38498470bc25283974c260722"
 metafile = true
 
 [[files]]
