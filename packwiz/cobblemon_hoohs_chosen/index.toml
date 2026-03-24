@@ -2602,7 +2602,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledgacha.pw.toml"
-hash = "54d68aac07811613255456bf39a9a882db4b6f9c564689229cbf6ca2984afaf7"
+hash = "bdd85ea4e65b03710c4d287272fec5edc0f67a8dcac359094f592d71eb46c8c6"
 metafile = true
 
 [[files]]
