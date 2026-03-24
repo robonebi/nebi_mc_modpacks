@@ -3242,7 +3242,7 @@ metafile = true
 
 [[files]]
 file = "mods/keychains.pw.toml"
-hash = "09f504ac12527913b8c75378b1c13d2598d65b2579249ba202d4de04ca659490"
+hash = "49f5fed3cccd8ad4aec86c53e102c0e5a95038b6ff1c0fd410ebfc00ae18eb84"
 metafile = true
 
 [[files]]
@@ -3347,7 +3347,7 @@ metafile = true
 
 [[files]]
 file = "mods/me-beam-former.pw.toml"
-hash = "fc3a835ede2bb4ac9207a6a2eabd1a401cbd388842711d85b5d881550dd38858"
+hash = "af52c16e623b1cb954068bfe8dc2fdb423a8db83101974074974dea6b6cfc457"
 metafile = true
 
 [[files]]
@@ -3397,12 +3397,12 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "50c18395e6546f8a38f7c0a65afde4acf86f8307699b99eceb7a1174f9257bd9"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
+hash = "f71a365ae1970ed6edff330b4f569222f74cc14c3ef98a85434258dee39da9a7"
 metafile = true
 
 [[files]]
@@ -3582,7 +3582,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "af36cf0aa85c590f2f5720da468484ed1f7197c5f00391eff41e757b93b05bc5"
+hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
 
 [[files]]
