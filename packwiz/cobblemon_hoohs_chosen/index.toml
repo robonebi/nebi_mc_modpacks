@@ -2367,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "bf67ed8a9a9615450c5dae00de58178c74d7e3e174a69ad30b45fae1d15aaa23"
+hash = "b0e660b67dcb3abd84eb3d0ee9f2d04458abfce45ec74df1886d03f3aaf9fa15"
 metafile = true
 
 [[files]]
@@ -2942,7 +2942,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-text-api.pw.toml"
-hash = "ba6a7db59e3c036232719434396569dc77f704e8fc826e89afbdec50c78b7ddd"
+hash = "fb12322beea76d2be65ecad21efdecf71ec03cc030d88b86946e9c826b328fe4"
 metafile = true
 
 [[files]]
@@ -3272,7 +3272,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8b7fedb1d01a4f39ca343aa3e672ebb759ad807ef3885a68c36dc28da430500a"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
