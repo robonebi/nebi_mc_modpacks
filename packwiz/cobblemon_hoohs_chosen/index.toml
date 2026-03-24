@@ -3627,17 +3627,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6efc7745f5b5609fb4683314bcbbf236a21128b5563a2b55e514483983a1b3bb"
+hash = "b8ddcc63037e82526d05edcaa5a7d5e8a4f5299b7b98940a487484ffabbe663f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "78fedef50f6efd3de99d1acb3378af9a25a8d03292f3e674e9f3e675f5fa6bb0"
+hash = "4b603b40d29c18b4c4eb5a00016beb428d1750438bbdd994305521ddaa384067"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-sorter.pw.toml"
-hash = "8b65d16b504f4a15e9726deb25a3ae3b67eb8955f10674817f736e6ee4dd54f8"
+file = "mods/sophisticated-inventory-interactions.pw.toml"
+hash = "5c3f71ab64777ed46d60da12f019708dc0ae95f31f1a921a5a52a5a73d854f90"
 metafile = true
 
 [[files]]
@@ -3647,12 +3647,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "593358bc811ee27e7d5dd6e2f647fb89ceb5671e628317f391fb24cbaa79fe56"
+hash = "05c96e8584bd300a48d7b323fd6006715a4aa7cfb280c2f93f4592ef2a031d63"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d9803b1b846f89595216a13cadf7ee7135f5fc1b6dc44a78ff6262b6151b4de2"
+hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
 metafile = true
 
 [[files]]
