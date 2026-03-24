@@ -2298,7 +2298,7 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "global_packs/required_data/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
@@ -2612,7 +2612,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "4fb28975f075a9a86ff875ec8b9b66e24c929357ee4ade53a619ff138641adae"
+hash = "2a12c5f579a27c8ac76e9372a464836c75a9fafc39f2b649598e9a9f5cb64d20"
 metafile = true
 
 [[files]]
@@ -3527,12 +3527,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "3b074ec1bac672b6e24c35312b419f29ee253fd2407cc6829813b59e478aa8bf"
+hash = "47b0a061240ac1f002dca20f4ffde04dc6ca9ddcafa80b9a355528a3ee9a13f0"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "81138340af7e8eb855dbb77ba3ab76e8cfa0cdff747e01dd4f15daed59d7a7bc"
+hash = "546cf282d68edeaacfb126715b489a20d19a7fbeb4638d364ade9fa8782c450a"
 metafile = true
 
 [[files]]
@@ -3851,7 +3851,7 @@ hash = "3ca181e5810867d5d36cbd3475a54fa4aac70c66f17dd425c92bfeb6b6fbb178"
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "076c2c1158ee0da4234a8b774ae55b9be8ae04958631fd494996513a9c6ffc1d"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
