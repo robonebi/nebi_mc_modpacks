@@ -1,13 +1,13 @@
 name = "Embers Text API"
-filename = "emberstextapi-neoforge-1.21.1-2.8.2.jar"
+filename = "emberstextapi-neoforge-1.21.1-2.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVSg4uGN/versions/T00dKF3G/emberstextapi-neoforge-1.21.1-2.8.2.jar"
+url = "https://cdn.modrinth.com/data/OVSg4uGN/versions/M7If1SYF/emberstextapi-neoforge-1.21.1-2.9.0.jar"
 hash-format = "sha512"
-hash = "71f972b88e09f18f7d18b884053f6f086d98f4a21dfb7b0e4fb1228755310bcd6034c40dd9be491530fae08989b26cc5bd27789832a75f85c4e5b83f2b515d51"
+hash = "4fe39050385d108122003d7a3462377b278c3a62664d6cb01f6717161b7ac238464caf01a99ac45357b2292c8f9081437419da5859a573c10bbcdfe1a21535aa"
 
 [update]
 [update.modrinth]
 mod-id = "OVSg4uGN"
-version = "T00dKF3G"
+version = "M7If1SYF"
