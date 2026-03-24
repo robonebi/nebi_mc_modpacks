@@ -2332,6 +2332,11 @@ hash = "767e8e4abb0ec01ecb0d9f53ef5d98522179e91fe336b84465028e7ff198ccf7"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/relic-coin-increaser.pw.toml"
+hash = "fe3a91b7da61437014efe123b61ad81c98e22b76d22e9b0284d22a46cbbddd12"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
 

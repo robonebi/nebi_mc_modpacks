@@ -1,0 +1,8 @@
+name = "relic-coin-increaser"
+filename = "relic_coin_increaser.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/relic_coin_increaser.zip"
+hash-format = "sha256"
+hash = "be3ed5bf60280ce3e5d236c69ff0268efe99771b85a465c69dfc094b14160132"
