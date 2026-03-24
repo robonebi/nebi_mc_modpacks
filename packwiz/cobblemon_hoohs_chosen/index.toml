@@ -3101,11 +3101,6 @@ hash = "63edd38d9bb8987b5b276f337aa915c07100bdcbf1c2c41ddc510fac3ad82cf2"
 metafile = true
 
 [[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "36666fecb7dd9e60c7c968d4be5c64e82319f3e5c71356fbf0976998561e571e"
-metafile = true
-
-[[files]]
 file = "mods/freecam.pw.toml"
 hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
@@ -3453,11 +3448,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
-metafile = true
-
-[[files]]
-file = "mods/obscure-tooltips.pw.toml"
-hash = "e59b9fe0cc9c1ef31a583f64eaf27738e2fe6b7dfcd0160615a9958b7159012e"
 metafile = true
 
 [[files]]
