@@ -1,0 +1,13 @@
+name = "Better Caps! [Cobblemon]"
+filename = "Better Caps! [v1.1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mbndKTrW/versions/oBM5i8MN/Better%20Caps%21%20%5Bv1.1%5D.zip"
+hash-format = "sha512"
+hash = "aad7cdde2cf998f377e7b62cac05932ce058722f1d690374f15fe6d9d550b1edd2d8cc03a06001840270574d13390e46b8f18dc914b62231bfd13af80b339610"
+
+[update]
+[update.modrinth]
+mod-id = "mbndKTrW"
+version = "oBM5i8MN"

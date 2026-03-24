@@ -2341,6 +2341,16 @@ file = "global_packs/required_resources/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
 
 [[files]]
+file = "global_packs/required_resources/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/better-caps.pw.toml"
+hash = "b8eca6da40ef174c0a333378259956b5c41f5c7edb94cedc04a1af55cf1d032c"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/redstone-tweaks.pw.toml"
 hash = "9360f16158d014416971036ff6c090f840db44321413012523c938b9756c8d41"
 metafile = true
@@ -3692,12 +3702,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "b2dd43f9809966eaed8ece9f72ec9ca4f35e8b1d5fd04cb7aa54d847ac9dab91"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
 metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "72e3d0793139bf38aa92c4fb8f1ef96169f3632216ed75801ab946c7afc5e274"
+hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
 metafile = true
 
 [[files]]
@@ -3853,16 +3863,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3ca181e5810867d5d36cbd3475a54fa4aac70c66f17dd425c92bfeb6b6fbb178"
-
-[[files]]
-file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-caps.pw.toml"
-hash = "7ed615c6d879abd3644c372004f79afb74f6e4af8bfebe4ddec1d4babd1173ac"
-metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-3d-poke-rods.pw.toml"
