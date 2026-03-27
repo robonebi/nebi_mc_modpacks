@@ -1450,7 +1450,7 @@ hash = "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
 
 [[files]]
 file = "config/copycats-client.toml"
-hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+hash = "8a8b4ddb916612d5b1936d0f15ef58a570cbd1d47796e398a1087fc92d40e593"
 
 [[files]]
 file = "config/copycats-common.toml"
