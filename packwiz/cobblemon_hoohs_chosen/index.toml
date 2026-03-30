@@ -1450,7 +1450,7 @@ hash = "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
 
 [[files]]
 file = "config/copycats-client.toml"
-hash = "8a8b4ddb916612d5b1936d0f15ef58a570cbd1d47796e398a1087fc92d40e593"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
 
 [[files]]
 file = "config/copycats-common.toml"
@@ -2586,6 +2586,11 @@ hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
 metafile = true
 
 [[files]]
+file = "mods/camouflage-blocks.pw.toml"
+hash = "90afbf4f9cfd8696df115bc87c81cd3e6c6f77ff83c4d016b96fc2d8441abe07"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
 metafile = true
@@ -3356,6 +3361,11 @@ hash = "ff76d4e6f8b16c02b3d9d0627c4a7dec766061d19cefe9bd0f1d6aee2dfade36"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-pipez-fix.pw.toml"
+hash = "6cf2a40575eec90ff4a6c2e60963d7a90fea28db53fdeade6a37142baefc9b83"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "ce4d0f8c52e7e3e3b713993c566f739843c9eb45ad4b924c1379118fb44c2a60"
 metafile = true
@@ -3483,6 +3493,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
 metafile = true
 
 [[files]]
