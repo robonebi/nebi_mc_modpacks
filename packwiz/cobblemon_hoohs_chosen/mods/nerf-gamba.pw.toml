@@ -1,0 +1,8 @@
+name = "nerf-gamba"
+filename = "nerf_gamba.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/nerf_gamba.zip"
+hash-format = "sha256"
+hash = "bc2aad68b9c1d2e717fdf9c2769e1a23835834ae5c7a1bf322f987624d3b6398"
