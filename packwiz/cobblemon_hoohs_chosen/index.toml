@@ -2327,8 +2327,18 @@ hash = "db46a2ef2cfdbbb5800a647a2d19ce2d49675ff3a390c6414719828306158b25"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/nerf-gamba.pw.toml"
+hash = "e5324bd921e5f76f7404404208a8af25f22c4de7c9ac871e8d1f67ea5386421e"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/pastel-crushing.pw.toml"
 hash = "767e8e4abb0ec01ecb0d9f53ef5d98522179e91fe336b84465028e7ff198ccf7"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/relic-coin-increaser.pw.toml"
+hash = "104adc4eb55c19a943bf31d8d7645648e7ab55e5a8a09b149a3eba7b65b6c49f"
 metafile = true
 
 [[files]]
@@ -3441,11 +3451,6 @@ hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
-file = "mods/nerf-gamba.pw.toml"
-hash = "e5324bd921e5f76f7404404208a8af25f22c4de7c9ac871e8d1f67ea5386421e"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
@@ -3553,11 +3558,6 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "546cf282d68edeaacfb126715b489a20d19a7fbeb4638d364ade9fa8782c450a"
-metafile = true
-
-[[files]]
-file = "mods/relic-coin-increaser.pw.toml"
-hash = "104adc4eb55c19a943bf31d8d7645648e7ab55e5a8a09b149a3eba7b65b6c49f"
 metafile = true
 
 [[files]]
