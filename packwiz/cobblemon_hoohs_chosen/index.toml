@@ -2154,7 +2154,7 @@ hash = "52289b88d7f9891b47ac21551fef6481345d5e695ddbf348f0a9f3304bf136cc"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "463f89cc56743f0afedc2b39e138f046d047a71bb2c9735d521e1c032029c5fd"
+hash = "5b25002e71291463f9fadcbbb5508f46574f7f9758be05b114bee485d1929a16"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -2299,11 +2299,6 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 [[files]]
 file = "global_packs/required_data/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/ap-tags.pw.toml"
-hash = "ca35ce912b4145895d18a606c5aa42fdb849c509b2ab7a18c8c257e537c28172"
 metafile = true
 
 [[files]]
@@ -2591,8 +2586,8 @@ hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
 metafile = true
 
 [[files]]
-file = "mods/camouflage-blocks.pw.toml"
-hash = "90afbf4f9cfd8696df115bc87c81cd3e6c6f77ff83c4d016b96fc2d8441abe07"
+file = "mods/camol.pw.toml"
+hash = "7d7b50bca4c32bf627530df6c9990112dba2dd2afe96463d7a4db8b6c7447be9"
 metafile = true
 
 [[files]]
@@ -3398,11 +3393,6 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "21a64fadf7c1fe5941f4b4d69acf8f8da2086b35e577a381245a75f68072b49b"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]

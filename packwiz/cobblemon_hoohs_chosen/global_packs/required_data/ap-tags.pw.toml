@@ -1,8 +1,0 @@
-name = "ap-tags"
-filename = "additional_placements_generated_tags.zip"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/additional_placements_generated_tags.zip"
-hash-format = "sha256"
-hash = "4edcb96d6e9ead6d3d656297abf946f15cc77140f7c90e1abb7046a56758657e"
