@@ -3411,6 +3411,11 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1c438aeea36d8739dd1f898043a343d934784897afca51ca5ce68aac87af87fe"
+metafile = true
+
+[[files]]
 file = "mods/more-mobs.pw.toml"
 hash = "a68f564a7f28119f68fe32b7e997564fcfbf5d008087a3385f106b5b9b70d9f7"
 metafile = true
