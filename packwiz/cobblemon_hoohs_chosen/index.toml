@@ -2687,7 +2687,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "7f64ed4a0fafc2f78e947b3405a38e31938a5783c4aca5d3446f0930f70a6b5d"
+hash = "bfc35311e1ae32e3d0b8dc933fa97628720d32d6ecbfadf9292a2612e4132895"
 metafile = true
 
 [[files]]
@@ -3642,17 +3642,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b8ddcc63037e82526d05edcaa5a7d5e8a4f5299b7b98940a487484ffabbe663f"
+hash = "bf4774db29fb288d20b4d1a5e0cc374bd4a2838a675fc2fa8e6eedf48fe4856d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4b603b40d29c18b4c4eb5a00016beb428d1750438bbdd994305521ddaa384067"
+hash = "921276c5dfbd3ddf82b46fe76ccf6e94f88042e99f9147bd5b69f354bd0ca118"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-inventory-interactions.pw.toml"
-hash = "5c3f71ab64777ed46d60da12f019708dc0ae95f31f1a921a5a52a5a73d854f90"
+hash = "877c9e076e6f9687ebec6fe1382cea55b7ebf78be9eac606586dca1c278fdb75"
 metafile = true
 
 [[files]]
@@ -3662,12 +3662,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "05c96e8584bd300a48d7b323fd6006715a4aa7cfb280c2f93f4592ef2a031d63"
+hash = "f600c307ce9e5ac1aaddecad9a4cef3d692fcca5ceef9a98ce08dad9eeba3307"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
+hash = "bb5993eb09307feff462e698c4c5d8405d583298c6048881ef2a7611c0292014"
 metafile = true
 
 [[files]]
