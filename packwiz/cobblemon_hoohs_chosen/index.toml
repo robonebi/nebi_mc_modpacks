@@ -2396,11 +2396,6 @@ hash = "c7cadd42e875b485f81560b512098dceee0fbf560e61e6394995892f41fea4a4"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/just-expressions.pw.toml"
-hash = "7bfb8b5087f4e098206dc843e2da0346ccce8977fbd126bdf85aafd8a2f8e87f"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/music-control-tweaked.pw.toml"
 hash = "44cf4c0ff4bf61a0c281dd4dc05363d7a27d9a7d871e36d51cd2ab3e79b135f4"
 metafile = true
@@ -3948,6 +3943,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3ca181e5810867d5d36cbd3475a54fa4aac70c66f17dd425c92bfeb6b6fbb178"
+
+[[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "7bfb8b5087f4e098206dc843e2da0346ccce8977fbd126bdf85aafd8a2f8e87f"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
