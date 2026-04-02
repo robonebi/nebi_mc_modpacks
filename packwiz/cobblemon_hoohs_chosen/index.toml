@@ -2302,6 +2302,11 @@ hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/ap-tags.pw.toml"
+hash = "543e66446b0010953581079fb665fc77a54b71c6abc3515af0d6f4cf3e4efbec"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/cte-tweaks.pw.toml"
 hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
 metafile = true
