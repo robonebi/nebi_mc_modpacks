@@ -2646,6 +2646,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-bobs-for-minecolonies.pw.toml"
+hash = "2318521f51bd96f7bcc74ef74cc02d7452e9aa5245ffa1479123ecaa78be0138"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
@@ -3763,6 +3768,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
+metafile = true
+
+[[files]]
+file = "mods/sword-and-kingdom-schematic.pw.toml"
+hash = "c4f9b9e15ef168a0cb626dffd4be47c57e75ff5c8373bc85938dffa0f56c9fe9"
 metafile = true
 
 [[files]]
