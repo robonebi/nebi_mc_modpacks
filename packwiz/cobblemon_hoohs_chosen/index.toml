@@ -2721,6 +2721,11 @@ hash = "6691c23c099a5508e6a572c1e3e647779331469e360b855b2f234ea41b6325b2"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-better-campfire-pot.pw.toml"
+hash = "397286c1b4aee8144cc5648af9557e6388191dce573aafe6bd81c9b054948847"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "418e00920f24ef960858eec94feaa9ea7361ca2b53dda230efee45c2fbd50576"
 metafile = true
