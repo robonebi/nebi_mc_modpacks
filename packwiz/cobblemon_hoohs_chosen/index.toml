@@ -2462,7 +2462,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "b0e660b67dcb3abd84eb3d0ee9f2d04458abfce45ec74df1886d03f3aaf9fa15"
+hash = "866f121058a70a37aa2c8426e3ed6579f50a8fc3fb168b3ff0f42546c6757ed0"
 metafile = true
 
 [[files]]
@@ -2562,7 +2562,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "19ee2739c4d135462767b6b78083e4742304924911d23c1746da5b863ed17008"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
@@ -2572,7 +2572,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+hash = "90b81c1bd8c7c60e5389a41616bc0c6f738d3fcef80c8857e80c17652f414a06"
 metafile = true
 
 [[files]]
@@ -2592,7 +2592,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "fa5a0d42ce28f52d9b5391e65cc8bbaf248a7300d29adae72c77f042a43b7331"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
 
 [[files]]
@@ -2717,7 +2717,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "6691c23c099a5508e6a572c1e3e647779331469e360b855b2f234ea41b6325b2"
+hash = "e1101f59e0d65b53b129c30c36756556f899d7cc8a76a254479cb3f7fb1f0e4b"
 metafile = true
 
 [[files]]
@@ -2782,7 +2782,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "e8eba7d7e8ec95ccff55fb4dc6620c890148a53f5a1221294d935beb36885ab2"
+hash = "b1e1cd2380c96506d9a7c7cccfa46fe602afe5cd2f4bac9b17473772043669dd"
 metafile = true
 
 [[files]]
@@ -2842,7 +2842,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "43ac0d3f978a006bf8f64fce334625fe16e8eee535eae6ed18f6e246d9c5a943"
+hash = "059fea3868979dcba1ec53917c1f15e9ba3a5e3d56605915e5a142b6b3323c82"
 metafile = true
 
 [[files]]
@@ -2877,7 +2877,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "bdf4470dffce235c3db087fb7717c551d4f1b213fe0de066342a7d3e8e0100d0"
+hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
 metafile = true
 
 [[files]]
@@ -3107,7 +3107,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
-hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
+hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
@@ -3127,7 +3127,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "42e926b206764c4c666ba7491d4b7f96445fe696cd1287c341d1524f9f5552ee"
+hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
 metafile = true
 
 [[files]]
@@ -3477,7 +3477,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "80755d364d2052bd7013e67a136c940f6f9018da20e6d24f4bde40a773964a4d"
+hash = "dc6b705975ada85fa0b870c34a89e10b48b100ed9512e4a2dbc3cc02a6002cbf"
 metafile = true
 
 [[files]]
@@ -3512,12 +3512,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "27914b1d105a01cc3ed0d4afacd52376b75ed9352f376aa065ba76b261794024"
+hash = "a3a7532f9ba61a40d55e4e15006c72e331213cc42fad76637352c80eacc20944"
 metafile = true
 
 [[files]]
@@ -3692,7 +3692,7 @@ metafile = true
 
 [[files]]
 file = "mods/smallcolonies.pw.toml"
-hash = "ed1debc831cb653959e0729516660fa33e85891905f00d1b60ffd3a9dc405aff"
+hash = "55b7956f5bdf88fa96c46b5e31a8856ad16f97826d43bb589f9ad38044b5c7bc"
 metafile = true
 
 [[files]]
@@ -3722,22 +3722,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bf4774db29fb288d20b4d1a5e0cc374bd4a2838a675fc2fa8e6eedf48fe4856d"
+hash = "482632cc6ef035e36e375578bb7b2fe969ff5d0b696221257f492b2609afa8be"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "921276c5dfbd3ddf82b46fe76ccf6e94f88042e99f9147bd5b69f354bd0ca118"
+hash = "09fa6e054c732ad75458d244c34da6cb04da312f453ce5c864b1fc96d9411ea4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-inventory-interactions.pw.toml"
-hash = "877c9e076e6f9687ebec6fe1382cea55b7ebf78be9eac606586dca1c278fdb75"
+hash = "04b5eb90552ec781248e3a8c394ecd3e399cf1c95de250db6297eeeb2ca2a2f5"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "e6bb3eeda43411c95fa84549ba3281df62654e36140ec322190206fc8df512a4"
+hash = "18b4886ca9ff03e2f8ce646955dca245c7e23dfe21d87fe6ae593a95165400b0"
 metafile = true
 
 [[files]]
@@ -3747,7 +3747,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "bb5993eb09307feff462e698c4c5d8405d583298c6048881ef2a7611c0292014"
+hash = "7f8c5d171c80d36c4115f32e3ef91d63abc1851d90f354796deb0b262789a072"
 metafile = true
 
 [[files]]
@@ -3762,7 +3762,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "0f403c213ec9ab08588d619ac516be1b615077ed5603083b0b1bb837739e309f"
+hash = "96f559a0fba8b281ed4ef3da9661d0c4c94edfe58044278a687054487e924e6b"
 metafile = true
 
 [[files]]
