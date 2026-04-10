@@ -2298,7 +2298,7 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "global_packs/required_data/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
 metafile = true
 
 [[files]]
@@ -2347,7 +2347,7 @@ hash = "9006eaea73c99fb974d7e395a5bc3a070ae07ae904f17386112d33c7e234f155"
 
 [[files]]
 file = "global_packs/required_resources/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
 metafile = true
 
 [[files]]
@@ -2717,12 +2717,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "e1101f59e0d65b53b129c30c36756556f899d7cc8a76a254479cb3f7fb1f0e4b"
+hash = "56a3afa223d95114d8a031fd78e020df0a32db2b8a1715eea58e759772da0b3c"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-better-campfire-pot.pw.toml"
-hash = "397286c1b4aee8144cc5648af9557e6388191dce573aafe6bd81c9b054948847"
+hash = "5ccaa07f9de7d048151095f71d4ef51099d37cb2f8ef3c49fe60c0ab51c03b41"
 metafile = true
 
 [[files]]
@@ -2842,7 +2842,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "059fea3868979dcba1ec53917c1f15e9ba3a5e3d56605915e5a142b6b3323c82"
+hash = "2df1d121128a418a3779b6fc64075e8211a8b7af57baf26c4ac1e632cd94f859"
 metafile = true
 
 [[files]]
@@ -2852,7 +2852,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+hash = "70404bc50710f2e83dc9fdaa20a011ff49575b8c06a049bc18a50096a817719f"
 metafile = true
 
 [[files]]
@@ -3087,7 +3087,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7d2a4a0926c39e1da0999bb243dc274de984670f0d131022e0b98bf8f9b8c325"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
