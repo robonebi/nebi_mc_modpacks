@@ -3461,7 +3461,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-pipez-fix.pw.toml"
-hash = "6cf2a40575eec90ff4a6c2e60963d7a90fea28db53fdeade6a37142baefc9b83"
+hash = "f19a5c15fb0d97652a575f5520ccb8e7f4b02787f980433cafcece7e11fe7249"
 metafile = true
 
 [[files]]
