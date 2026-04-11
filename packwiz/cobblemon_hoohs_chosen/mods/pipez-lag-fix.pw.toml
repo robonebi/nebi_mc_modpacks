@@ -1,0 +1,13 @@
+name = "Pipez Lag Fix"
+filename = "pipezlagfix-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32d26f4e279d5059e358853ba0a567cf74e1d96e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7536788
+project-id = 1446489

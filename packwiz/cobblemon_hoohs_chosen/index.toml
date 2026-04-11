@@ -3590,6 +3590,11 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/pipez-lag-fix.pw.toml"
+hash = "b5432a9d2224cf8ebc4aac64a383143cdceefb16b1234ace14521a6a5b8575e1"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
 metafile = true
