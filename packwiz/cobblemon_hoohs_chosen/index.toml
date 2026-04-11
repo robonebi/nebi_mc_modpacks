@@ -2341,6 +2341,11 @@ hash = "767e8e4abb0ec01ecb0d9f53ef5d98522179e91fe336b84465028e7ff198ccf7"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/pipes-recipe-changes.pw.toml"
+hash = "036b0636062f489fb46ab9a5bc607402e750a1ee41a4b1bca332dba07d76e44a"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/relic-coin-increaser.pw.toml"
 hash = "104adc4eb55c19a943bf31d8d7645648e7ab55e5a8a09b149a3eba7b65b6c49f"
 metafile = true
@@ -3587,11 +3592,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
-metafile = true
-
-[[files]]
-file = "mods/pipes-recipe-changes.pw.toml"
-hash = "036b0636062f489fb46ab9a5bc607402e750a1ee41a4b1bca332dba07d76e44a"
 metafile = true
 
 [[files]]
