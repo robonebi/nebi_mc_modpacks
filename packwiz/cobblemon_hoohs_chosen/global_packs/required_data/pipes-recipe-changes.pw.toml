@@ -1,0 +1,8 @@
+name = "pipes-recipe-changes"
+filename = "pipez_recipe_changes.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/pipez_recipe_changes.zip"
+hash-format = "sha256"
+hash = "970b2583571b441a9367155ba0ade39fd15a7f0d5c5c8234e8b78a5fff9e6b21"
