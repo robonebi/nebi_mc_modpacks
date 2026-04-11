@@ -1965,6 +1965,10 @@ file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
 [[files]]
+file = "config/pipez-server.toml"
+hash = "372156b88932957d0a49aa0ae20a3273d0130a3ac5bc6d0ddea33b8ec8ba9c45"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
