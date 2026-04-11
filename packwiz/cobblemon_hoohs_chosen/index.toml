@@ -2401,6 +2401,11 @@ hash = "44cf4c0ff4bf61a0c281dd4dc05363d7a27d9a7d871e36d51cd2ab3e79b135f4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/pretty-x-smart-pipez-mekanism-edition.pw.toml"
+hash = "6d1b256814df6c7f26dfabea9d7854220915bb2ce96cbf44c7962c23074eb6ee"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/rays-3d-rails.pw.toml"
 hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
 metafile = true
