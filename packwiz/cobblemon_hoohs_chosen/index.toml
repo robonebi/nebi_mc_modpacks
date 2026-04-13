@@ -2341,6 +2341,11 @@ hash = "767e8e4abb0ec01ecb0d9f53ef5d98522179e91fe336b84465028e7ff198ccf7"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/pastel-pigment-extracting.pw.toml"
+hash = "bc59b469ecba791c9fcb8bbfc0710d9c4e0645badbfee2f9a49c3e8ce9bc20d6"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/pipes-recipe-changes.pw.toml"
 hash = "036b0636062f489fb46ab9a5bc607402e750a1ee41a4b1bca332dba07d76e44a"
 metafile = true
