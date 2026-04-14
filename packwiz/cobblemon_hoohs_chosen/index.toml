@@ -2346,6 +2346,11 @@ hash = "bc59b469ecba791c9fcb8bbfc0710d9c4e0645badbfee2f9a49c3e8ce9bc20d6"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/pipez-recipes-fixtest.pw.toml"
+hash = "7fe3e8c6f4dcec660b057fd3d1afa5a46418291a3a38f2cf617b374a646a18a2"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/relic-coin-increaser.pw.toml"
 hash = "104adc4eb55c19a943bf31d8d7645648e7ab55e5a8a09b149a3eba7b65b6c49f"
 metafile = true
