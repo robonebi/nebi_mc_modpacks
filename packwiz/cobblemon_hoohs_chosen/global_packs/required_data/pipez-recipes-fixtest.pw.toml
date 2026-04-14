@@ -1,8 +1,0 @@
-name = "pipez_recipes_fixtest"
-filename = "pipez_recipe_changes_fixtest.zip"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/pipez_recipe_changes_fixtest.zip"
-hash-format = "sha256"
-hash = "479806a62aadd28b7df489993f0743c7ee847416c160a36d181c880d39fe9dee"

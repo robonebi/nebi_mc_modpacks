@@ -1,0 +1,8 @@
+name = "pipez-recipe-changes-fixed"
+filename = "pipez_recipe_changes_fixed.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/pipez_recipe_changes_fixed.zip"
+hash-format = "sha256"
+hash = "be5b6fe357c05dced98b03a18c1f6d87054f57af2f455f4d05f6acb98103d429"
