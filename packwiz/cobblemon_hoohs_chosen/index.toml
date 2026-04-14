@@ -3215,6 +3215,11 @@ hash = "63edd38d9bb8987b5b276f337aa915c07100bdcbf1c2c41ddc510fac3ad82cf2"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
