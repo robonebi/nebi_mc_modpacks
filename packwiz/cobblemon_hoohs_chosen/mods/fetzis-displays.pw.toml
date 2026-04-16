@@ -1,6 +1,7 @@
 name = "Fetzi's Displays"
 filename = "fetzisdisplays-neoforge-1.0.1-beta-1.21.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/NeiloyHm/versions/yTonydbB/fetzisdisplays-neoforge-1.0.1-beta-1.21.jar"

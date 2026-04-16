@@ -1,13 +1,13 @@
 name = "Bits and Bobs for Minecolonies"
-filename = "bits-and-bobs-1.21.1-0.1.2.jar"
+filename = "bits-and-bobs-1.21.1-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3242a797e352c62a32f2c11966f829c2117fc6bd"
+hash = "537e35fd4af5fa3a37c662d5a1a71ea52da9de6f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7449121
+file-id = 7912599
 project-id = 1411734
