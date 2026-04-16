@@ -2326,11 +2326,6 @@ hash = "04da6f5882bbed304f089aa8e53773edf04fd9b26e2f1d6eadb5821a8e38b1c5"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/mekanism-extracting.pw.toml"
-hash = "425ac1b03b394dbf2b4c5a6dd6ae120592fb42838ebed4ce7a5b42aa9c01f512"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/minecolonies-pokemon-compat.pw.toml"
 hash = "db46a2ef2cfdbbb5800a647a2d19ce2d49675ff3a390c6414719828306158b25"
 metafile = true
