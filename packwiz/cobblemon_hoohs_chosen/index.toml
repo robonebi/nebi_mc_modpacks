@@ -2326,6 +2326,11 @@ hash = "04da6f5882bbed304f089aa8e53773edf04fd9b26e2f1d6eadb5821a8e38b1c5"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/mekanism-extracting.pw.toml"
+hash = "beb7e5c74c0ab164a5187de4c78f5b616d7f9e4efe098b30af37e28008b38153"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/minecolonies-pokemon-compat.pw.toml"
 hash = "db46a2ef2cfdbbb5800a647a2d19ce2d49675ff3a390c6414719828306158b25"
 metafile = true
@@ -3467,11 +3472,6 @@ metafile = true
 [[files]]
 file = "mods/me-beam-former.pw.toml"
 hash = "af52c16e623b1cb954068bfe8dc2fdb423a8db83101974074974dea6b6cfc457"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-extracting.pw.toml"
-hash = "beb7e5c74c0ab164a5187de4c78f5b616d7f9e4efe098b30af37e28008b38153"
 metafile = true
 
 [[files]]
