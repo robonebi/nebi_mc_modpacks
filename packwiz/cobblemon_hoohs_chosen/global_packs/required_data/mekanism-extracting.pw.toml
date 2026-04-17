@@ -1,8 +1,0 @@
-name = "mekanism-extracting"
-filename = "mek_extracting.zip"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/mek_extracting.zip"
-hash-format = "sha256"
-hash = "ccb214ed859b6fb42f1a524a51737cc61226fb88bc145d7d6387695e4b64ee25"
