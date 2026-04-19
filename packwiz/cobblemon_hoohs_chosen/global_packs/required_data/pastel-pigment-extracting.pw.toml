@@ -1,0 +1,8 @@
+name = "pastel-pigment-extracting"
+filename = "pigment_extracting.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/pigment_extracting.zip"
+hash-format = "sha256"
+hash = "a46fb8856d77b59a5d6a712177bdee05bedef145e30bb7c169e7fa85daf5e2d6"

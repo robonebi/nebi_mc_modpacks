@@ -1,0 +1,8 @@
+name = "sculk-seething"
+filename = "sculk_seething.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/sculk_seething.zip"
+hash-format = "sha256"
+hash = "9e90007609bafce8ac37ec7429452880e38c31e1c6e1bc7cc964f497b85885e3"

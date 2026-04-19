@@ -2346,6 +2346,11 @@ hash = "767e8e4abb0ec01ecb0d9f53ef5d98522179e91fe336b84465028e7ff198ccf7"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/pastel-pigment-extracting.pw.toml"
+hash = "eb882908b78a87095a48fd8f2a552f0c6187c5e37fc2eb00e1be13ab5c8d7708"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/pipez-recipe-changes-fixed-again.pw.toml"
 hash = "3a252913cc97d8d6e298431e789d8abcd7007ed532bdc65ed16298f126c5db34"
 metafile = true
@@ -2353,6 +2358,11 @@ metafile = true
 [[files]]
 file = "global_packs/required_data/relic-coin-increaser.pw.toml"
 hash = "104adc4eb55c19a943bf31d8d7645648e7ab55e5a8a09b149a3eba7b65b6c49f"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/sculk-seething.pw.toml"
+hash = "e7826d54ce3a24eacabf9c3b435f65eb3a644e3d90a13d0150ebbc752102d8a6"
 metafile = true
 
 [[files]]
