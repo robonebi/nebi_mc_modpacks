@@ -3070,11 +3070,6 @@ hash = "e14e545eff3fe3191e87804820e917c36d5fe5d6e7e3395e5f525c39ed87b802"
 metafile = true
 
 [[files]]
-file = "mods/dismount-entity.pw.toml"
-hash = "839fe18f0bca3f52ee0f7b8b303c314b5858ca1f86511244ed9449de8192928c"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
