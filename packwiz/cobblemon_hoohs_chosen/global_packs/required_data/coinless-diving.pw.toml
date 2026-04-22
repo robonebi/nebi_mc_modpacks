@@ -1,0 +1,8 @@
+name = "coinless-diving"
+filename = "coinless_diving.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/robonebi/nebi_mc_modpacks/refs/heads/main/datapacks/coinless_diving.zip"
+hash-format = "sha256"
+hash = "60eb1ca50109d221f8661c09ec68c6898aeca94418c0005ae97350a947c3e2e8"

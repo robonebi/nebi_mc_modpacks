@@ -2311,6 +2311,11 @@ hash = "543e66446b0010953581079fb665fc77a54b71c6abc3515af0d6f4cf3e4efbec"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/coinless-diving.pw.toml"
+hash = "8338b7b327ba1fd89b6138dc438384d3f519583ed088dd02dea9f41a452373da"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/cte-tweaks.pw.toml"
 hash = "1dda549a101adc233caa605ff15cfc711571fe11c5eefb324c45b91698a11550"
 metafile = true
