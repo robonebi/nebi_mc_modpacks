@@ -1,0 +1,13 @@
+name = "21 Core v2"
+author = "robonebi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a9a2bc41601a94f6a7da1207ff004ad25b518a198386fc247dd06bdded024e76"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
