@@ -1,0 +1,13 @@
+name = "Fetzi's Displays"
+filename = "fetzisdisplays-neoforge-1.1.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NeiloyHm/versions/lEnkIRJr/fetzisdisplays-neoforge-1.1.0-1.21.jar"
+hash-format = "sha512"
+hash = "96fa343ba5c387d0b3960ef0c24812788bb0d24447cc96de2daa86975289d5fe86cf7a3aaee8b708362eb91bc881ebd9bab88b57ff5b5585927c460947f1fedf"
+
+[update]
+[update.modrinth]
+mod-id = "NeiloyHm"
+version = "lEnkIRJr"

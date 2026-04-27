@@ -1,0 +1,13 @@
+name = "Create: Colored Chain Conveyor"
+filename = "create_colored_chain_conveyor-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3WRAycu/versions/sKRLjBgN/create_colored_chain_conveyor-1.0.0.jar"
+hash-format = "sha512"
+hash = "8f7372289889248f673a88db434d313d8382703273338d6e36f184abc9ba550b8b4bcc46d09ff69448ad21837cd463ddfca4558137d32787675e4a8ac23d5fb0"
+
+[update]
+[update.modrinth]
+mod-id = "V3WRAycu"
+version = "sKRLjBgN"
