@@ -431,26 +431,6 @@ hash = "f90affaef355f307d7c5c6753134ce89abd0d6efe390864844d46838f1906c70"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-pipez-fix.pw.toml"
-hash = "6cf2a40575eec90ff4a6c2e60963d7a90fea28db53fdeade6a37142baefc9b83"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
 metafile = true
