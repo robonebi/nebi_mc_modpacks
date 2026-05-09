@@ -26,6 +26,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "478021b36f882b570e52c308e8e9aab212a9968fc90ff6e5154f071310116a22"
 metafile = true
