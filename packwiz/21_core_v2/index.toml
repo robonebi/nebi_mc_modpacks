@@ -81,6 +81,11 @@ hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
+metafile = true
+
+[[files]]
 file = "mods/backport-copper-age.pw.toml"
 hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/beltborne-lanterns.pw.toml"
 hash = "a3d64a9bc113d1bca287ee2c47d832685c8d4b8807032cecd8dfffd35a070709"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
@@ -411,6 +421,11 @@ hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
 metafile = true
 
 [[files]]
+file = "mods/familiarslib.pw.toml"
+hash = "265ce77d90fc64011ab7fd67d1f9f22231f656b2e818560eda7155ca7aa8745b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
@@ -541,6 +556,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
 file = "mods/irons-spellbooks-arcane-essence-blocks.pw.toml"
 hash = "e87d519950f0d9362c919a9afb92688769b321a21b578c01a6d94645dd947cf1"
 metafile = true
@@ -583,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "c1d1d67f2b3924a3f2694af3206b425d2f88a04853010f98a99953d5894047a6"
 metafile = true
 
 [[files]]
@@ -758,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
