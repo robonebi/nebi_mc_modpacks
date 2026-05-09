@@ -761,6 +761,11 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "aed0f4afde728964d32491c3fb8268b29b1a94b8e2b5f7eafbae6ad22c096010"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
