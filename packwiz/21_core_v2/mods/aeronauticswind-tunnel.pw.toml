@@ -1,0 +1,13 @@
+name = "Aeronautics:Wind Tunnel"
+filename = "windtunnel-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnEqwk7y/versions/FQm4Jpmy/windtunnel-1.0.4.jar"
+hash-format = "sha512"
+hash = "ab40832ac49f8df2baa7314ed8e44a8fb774a0727f550cf8e570d3e4c0a758dd7f585df714cb363c3c65450a1b0874e64abdbbc19ec21bbfe15a61f9f8ea921d"
+
+[update]
+[update.modrinth]
+mod-id = "EnEqwk7y"
+version = "FQm4Jpmy"

@@ -1,0 +1,13 @@
+name = "Copycat Sails and Compat"
+filename = "copycat_aeronautics_sails-0.1.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1a5c1532960164b9dfe8dd734f8307395a8de66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7993244
+project-id = 1525707

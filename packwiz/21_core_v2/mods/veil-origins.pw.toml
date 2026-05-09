@@ -1,0 +1,13 @@
+name = "Veil Origins"
+filename = "veil_origins_mod-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af80ec644de1a0e4bbdbe5b8cdedb3e3313f9b5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7514469
+project-id = 1398360
