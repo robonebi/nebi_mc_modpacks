@@ -451,11 +451,6 @@ hash = "3180ef0c8710e5bb03a431f51f40cfeb4b5f388fc9e9e67199717fa458220d55"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "bbcbc7b4f4510f9dde83cac3d7c674536195cdbdd049207552a685c1a291997a"
-metafile = true
-
-[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
