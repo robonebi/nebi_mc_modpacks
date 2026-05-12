@@ -1,8 +1,13 @@
-name = "noisiumed"
+name = "Noisiumed"
 filename = "noisiumed-3.0.5-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M8MasaZG/versions/F4iw6WYi/noisiumed-3.0.5-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "d1a4a2d0a6a0a174932680a94af9c82df1f56a3ee3f9852cbcfa3f080bbcc9a5"
+hash-format = "sha1"
+hash = "945592fb862d32676d62abaa4c473cf274c8ad59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7881170
+project-id = 1430156
