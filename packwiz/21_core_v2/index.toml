@@ -241,6 +241,11 @@ hash = "8330b8e89c1e8b9c571eec3918dd3c851ebc7fadfd8e4e019a3f9e2d867534e8"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "f8a8bf8c2bdc8d39c0cf0ff5248476fae137af4836390489b1d2fe2af7237e16"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
 hash = "aa69dc9a1d57d4c3c4f83627017b5a741c301f42f83f25a47bc420e869f9d931"
 metafile = true
