@@ -12,7 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
+metafile = true
+
+[[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "0fa8a6109ec993b9dd07c2ebdc6e98a9464a07248105c185261b1001699003ce"
 metafile = true
 
 [[files]]
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
-hash = "d4b7f6cf00243e6963d28933424141debda012dbfc4e41d4954defac67b2156b"
+hash = "c47524929141bdb0e66ef22a1e215c32c43e4ce7d49640cbc70fb35aba39608f"
 metafile = true
 
 [[files]]
@@ -176,6 +181,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "83d8e82f5f7d56ce8e09f131ffe04b1b4733b970c8a47b79546e5b2a6c3b7167"
 metafile = true
 
 [[files]]
@@ -358,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/death-keeper.pw.toml"
 hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
+metafile = true
+
+[[files]]
+file = "mods/discerning-the-eldritch.pw.toml"
+hash = "1e3172b5abeb1203ec7148a7bddb45edd6aa22a98d848110d1b3c06956a3f0f6"
 metafile = true
 
 [[files]]
@@ -691,6 +711,11 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
+file = "mods/magic-of-color.pw.toml"
+hash = "f82d4e75a3d293a0ec0546c9f413a44273cd48c08fa1b2f37f01ef1842e9b407"
+metafile = true
+
+[[files]]
 file = "mods/maxhealthfix.pw.toml"
 hash = "f90affaef355f307d7c5c6753134ce89abd0d6efe390864844d46838f1906c70"
 metafile = true
@@ -776,6 +801,11 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/pastel-mod.pw.toml"
+hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
 metafile = true
@@ -803,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "dc9fec9f7c8410ed73c1d9dec65df90b83af5a62a86e6a33b55dec5641f49f17"
+metafile = true
+
+[[files]]
+file = "mods/prometheus-api.pw.toml"
+hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
 metafile = true
 
 [[files]]
@@ -916,6 +951,11 @@ hash = "1e0e4292870a22a5a2bf76f70eca35391d065f1d2213f92b60149b03167a0a82"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "184c63d81d401e2e8b1e63d446afeaa577e4836cd29c147edff387a57f08f9e4"
 metafile = true
@@ -973,6 +1013,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
+metafile = true
+
+[[files]]
+file = "mods/tunes-n-tomes-a-bards-journey.pw.toml"
+hash = "ae078de810f9085fed2a24b78a206372b3f88a6705a3c8ca5de3965940bfddcd"
 metafile = true
 
 [[files]]
@@ -1083,4 +1128,9 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slim-fire.pw.toml"
+hash = "5bc7675b705e42ee59bd403b2e5608d13a922b6c0387e49c9827f8809e38f4f4"
 metafile = true
